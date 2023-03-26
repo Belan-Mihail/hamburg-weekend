@@ -33,6 +33,7 @@ header {
     justify-content: space-between;
     align-items: center;
     margin: 5px 20px;
+    gap: 3rem;
 }
 
 header a {
@@ -43,7 +44,17 @@ header a {
     font-size: 2rem;
     text-transform: uppercase;
     color: var(--text-color);
-    letter-spacing: 3px;
-        
+    letter-spacing: 3px;   
 }
 
+#menu {
+    display: flex;
+    gap: 3rem;
+    list-style: none;
+    font-size: 1.4rem;
+    
+}
+
+#menu a {
+    color: var(--text-color); 
+}
