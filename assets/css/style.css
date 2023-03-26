@@ -47,6 +47,16 @@ header a {
     letter-spacing: 3px;   
 }
 
+#logo span:first-child {
+    font-size: 2.5rem;
+    color: var(--primary-accent-color);
+}
+
+#logo span:last-child {
+    font-size: 2.5rem;
+    color: var(--secondary-accent-color);
+}
+
 #menu {
     display: flex;
     gap: 3rem;
