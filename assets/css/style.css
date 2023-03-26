@@ -2,6 +2,12 @@
 
 /* General styles */
 
+:root {
+    --text-color: rgb(80, 79, 79);
+    --primary-accent-color: rgb(243, 116, 31);
+    --secondary-accent-color: rgb(38, 243, 31);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -12,6 +18,7 @@
 body {
     font-family: 'Mulish', sans-serif;
     font-weight: 300;
+    color: var(--text-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
