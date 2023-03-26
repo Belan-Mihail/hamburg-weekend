@@ -25,3 +25,25 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Magra', sans-serif;
     font-weight: 700;
 }
+
+/* Logo and nav menu */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 20px;
+}
+
+header a {
+    text-decoration: none;
+}
+
+#logo {
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: var(--text-color);
+    letter-spacing: 3px;
+        
+}
+
