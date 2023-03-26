@@ -81,3 +81,16 @@ header a {
 #menu .active:hover {
     border-bottom: 2px solid var(--primary-accent-color);
 }
+
+/* hero section */
+
+.hero-section {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    
+}
+
+
+
+
