@@ -85,7 +85,7 @@ header a {
 .hero-section {
     height: 37rem;
     width: 100%;
-    overflow-x: hidden; 
+    overflow: hidden; 
 }
 
 .hero-image {
@@ -141,6 +141,10 @@ header a {
     letter-spacing: 4.rem;
 }
 
+.heading-box-row {
+    display: flex;
+    gap: 3rem;
+}
 
 
 
