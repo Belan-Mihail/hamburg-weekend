@@ -139,12 +139,13 @@ header a {
 .sub-heading {
     font-size: 2.5rem;
     letter-spacing: 4.rem;
+    margin-bottom: 1rem;
 }
 
 .heading-box-row {
     display: flex;
-    gap: 3rem;
-    padding: 1.5rem;
+    gap: 2rem;
+    padding: 0rem 1rem;
     align-items: center;
 }
 
@@ -325,6 +326,15 @@ footer p {
     .box-sub-heading {
         font-size: 1.5rem;
         letter-spacing: 0.4rem;
+    }
+
+    .icons-box-row {
+        display: none;
+    }
+    
+    .heading-box-row, .reversed {
+        flex-direction: column;
+        gap: 0;
     }
 
     footer h2 {
