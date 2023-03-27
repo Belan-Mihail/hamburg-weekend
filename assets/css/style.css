@@ -93,7 +93,7 @@ header a {
     height: 100%;
     width: 100%;
     object-fit: cover;
-    object-position: bottom right;
+    /* object-position: bottom right; */
     border: .4rem solid var(--secondary-accent-color);
     border-radius: .5rem;
 
@@ -314,25 +314,29 @@ footer p {
         gap: 1rem;
     }
 
+    .hero-section {
+        height: 100%; 
+    }
+
     .sub-heading {
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
     
     .box-sub-heading {
-        font-size: 1rem;
-        letter-spacing: 0.2rem;
+        font-size: 1.5rem;
+        letter-spacing: 0.4rem;
     }
 
     footer h2 {
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
     
     footer p {
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
 
     .social-links a {
-        font-size: 1rem;
+        font-size: 1.5rem;
     }
 }
 
