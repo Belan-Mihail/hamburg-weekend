@@ -137,16 +137,43 @@ header a {
 }
 
 .sub-heading {
-    font-size: 2rem;
+    font-size: 3rem;
     letter-spacing: 4.rem;
 }
 
 .heading-box-row {
     display: flex;
     gap: 3rem;
+    padding: 1.5rem;
+    align-items: center;
 }
 
+.box-sub-heading {
+    font-size: 2rem;
+    letter-spacing: 0.4rem;
+}
 
+.heading-box-row .links-box-row i {
+    font-size: 1.2rem;
+    color: var(--primary-accent-color);
+    margin-right: 1rem;
+    transition: transform .4s ease;
+}
+
+.heading-box-row .links-box-row a {
+    font-size: 0.9rem;
+    text-decoration: underline;
+    color: var(--text-color);
+}
+
+.links-box-row a i:hover {
+    color: var(--secondary-accent-color);
+    transform: rotate(180deg);
+}
+
+.links-box-row a:hover {
+    color: var(--primary-accent-color);
+}
 
 
 
