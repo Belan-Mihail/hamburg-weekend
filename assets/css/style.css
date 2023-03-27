@@ -216,6 +216,14 @@ header a {
     overflow: hidden;
 }
 
+.image-box h4 {
+    color: var(--text-color);
+}
+
+.image-box a {
+    text-decoration: none;
+}
+
 .image-box img {
     height: 100%;
     width: 100%;
