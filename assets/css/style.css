@@ -151,6 +151,12 @@ header a {
 .box-sub-heading {
     font-size: 2rem;
     letter-spacing: 0.4rem;
+    padding: .5rem;
+}
+
+.box-sub-heading:hover {
+    border: .2rem solid var(--primary-accent-color);
+    border-radius: .5rem;
 }
 
 .heading-box-row .links-box-row i {
