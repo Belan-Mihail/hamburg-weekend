@@ -175,6 +175,18 @@ header a {
     color: var(--primary-accent-color);
 }
 
+.icons-box-row {
+    padding: 0 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 3rem;
+}
+
+.icon-box {
+    display: flex;
+    gap: 1rem;
+}
 
 
 
