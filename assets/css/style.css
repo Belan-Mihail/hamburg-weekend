@@ -45,7 +45,7 @@ header a {
     font-size: 2rem;
     text-transform: uppercase;
     color: var(--text-color);
-    letter-spacing: 3px;   
+    letter-spacing: .18rem;   
 }
 
 #logo span:first-child {
@@ -62,8 +62,7 @@ header a {
     display: flex;
     gap: 3rem;
     list-style: none;
-    font-size: 1.4rem;
-    
+    font-size: 1.4rem; 
 }
 
 #menu a {
@@ -87,9 +86,7 @@ header a {
 .hero-section {
     height: 37rem;
     width: 100%;
-    overflow: hidden;
-    
-    
+    overflow: hidden; 
 }
 
 .hero-image {
@@ -125,6 +122,34 @@ header a {
 
 .cover-text span {
     font-size: 2.5rem;
-    
 }
 
+
+
+
+
+
+
+
+
+/* media queries */
+
+@media screen and (max-width: 950px) {
+    #logo {
+        font-size: 1.5rem;
+        letter-spacing: .18rem;   
+    }
+    
+    #logo span:first-child {
+        font-size: 2rem;
+    }
+    
+    #logo span:last-child {
+        font-size: 2rem;
+    }
+    
+    #menu {
+        gap: 2rem;
+        font-size: 1.2rem; 
+    }
+}
