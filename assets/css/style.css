@@ -240,6 +240,9 @@ header a {
     object-fit: cover;
 }
 
+.image-box img:hover {
+    transform: scale(1.1);
+}
 
 
 
