@@ -378,4 +378,15 @@ footer p {
     .cover-text span {
         font-size: 2rem;
     }
+
+    .links-box-row {
+        display: none;
+    }
 }
+
+@media screen and (max-width: 450px) {
+    .images-box {
+        grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    }
+}
+
