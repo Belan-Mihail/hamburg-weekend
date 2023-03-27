@@ -188,6 +188,15 @@ header a {
     gap: 1rem;
 }
 
+.icons-box-row .icon-box:nth-child(even):hover {
+    color: var(--secondary-accent-color);
+}
+
+.icons-box-row .icon-box:nth-child(odd):hover {
+    color: var(--primary-accent-color);
+}
+
+
 
 
 /* media queries */
