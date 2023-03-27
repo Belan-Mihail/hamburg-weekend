@@ -32,7 +32,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 5px 20px;
+    margin: .4rem 1.2rem;
     gap: 3rem;
     
 }
@@ -85,9 +85,11 @@ header a {
 /* hero section */
 
 .hero-section {
-    height: 38rem;
+    height: 37rem;
     width: 100%;
     overflow: hidden;
+    
+    
 }
 
 .hero-image {
@@ -95,6 +97,19 @@ header a {
     width: 100%;
     object-fit: cover;
     object-position: bottom right;
+    border: .4rem solid var(--primary-accent-color);
+    border-radius: .5rem;
+}
+
+.cover-text {
+    width: 12.5rem;
+    height: 3.75rem;
+    background-color: rgba(38, 243, 31, 0.6);
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, 0);
+    text-align: center;
 }
 
 
