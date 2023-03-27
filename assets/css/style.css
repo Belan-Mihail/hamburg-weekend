@@ -320,7 +320,7 @@ footer p {
     }
 
     .sub-heading {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     
     .box-sub-heading {
@@ -337,8 +337,12 @@ footer p {
         gap: 0;
     }
 
+    footer {
+        margin-top: 3rem;
+    }
+
     footer h2 {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     
     footer p {
