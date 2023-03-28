@@ -361,6 +361,32 @@ footer p {
 .content-box-container {
     display: flex;
     justify-content: space-between;
+    gap: 2rem;
+}
+
+.content-box-left-side {
+    flex: 0 1 30%;
+}
+
+.content-box-right-side {
+    flex: 1 1 70%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    gap: .2rem;
+}
+
+
+.content-images-box {
+    height: 20rem;
+    overflow: hidden;
+    
+}
+
+.content-images-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    
 }
 
 
