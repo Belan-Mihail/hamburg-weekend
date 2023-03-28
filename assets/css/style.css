@@ -287,8 +287,31 @@ footer p {
 
 /* attractions page */
 
+.main-heading-row {
+    padding-top: 2rem;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    border-top: .4rem solid var(--secondary-accent-color);
+}
 
+.main-heading-row h2 {
+    font-size: 2.5rem;
+    letter-spacing: .4rem;
+}
 
+.main-heading-row i {
+    font-size: 2rem;
+}
+
+.main-heading-row i:nth-child(1):hover {
+    color: var(--primary-accent-color);
+}
+
+.main-heading-row i:nth-child(3):hover {
+    color: var(--secondary-accent-color);
+}
 
 /* media queries */
 
