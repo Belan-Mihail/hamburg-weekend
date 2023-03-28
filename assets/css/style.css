@@ -358,7 +358,10 @@ footer p {
     font-size: 0.8rem; 
 }
 
-
+.content-box-container {
+    display: flex;
+    justify-content: space-between;
+}
 
 
 
