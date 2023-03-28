@@ -313,6 +313,31 @@ footer p {
     color: var(--secondary-accent-color);
 }
 
+.content-box {
+    margin: 1.5rem;
+}
+
+.content-heading-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 0;
+}
+
+.content-heading {
+    font-size: 2rem;
+    
+}
+
+.content-heading:hover {
+    border: .2rem solid var(--primary-accent-color);
+    border-radius: .5rem;
+}
+
+
+
+
+
 /* media queries */
 
 @media screen and (max-width: 950px) {
