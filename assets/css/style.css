@@ -93,7 +93,6 @@ header a {
     height: 100%;
     width: 100%;
     object-fit: cover;
-    /* object-position: bottom right; */
     border: .4rem solid var(--secondary-accent-color);
     border-radius: .5rem;
 
@@ -286,10 +285,15 @@ footer p {
     color: var(--secondary-accent-color);
 }
 
+/* attractions page */
+
+
+
 
 /* media queries */
 
 @media screen and (max-width: 950px) {
+    /* index page */
     #logo {
         font-size: 1.5rem;
         letter-spacing: .18rem;   
@@ -310,6 +314,7 @@ footer p {
 }
 
 @media screen and (max-width: 750px) {
+    /* index page */
     header {
         flex-direction: column;
         gap: 1rem;
@@ -355,6 +360,7 @@ footer p {
 }
 
 @media screen and (max-width: 550px) {
+    /* index page */
     #menu {
         flex-direction: column;
         gap: 1rem;
@@ -385,6 +391,7 @@ footer p {
 }
 
 @media screen and (max-width: 450px) {
+    /* index page */
     .images-box {
         grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
     }
