@@ -322,6 +322,7 @@ footer p {
     justify-content: space-between;
     align-items: center;
     padding: 1.5rem 0;
+    
 }
 
 .content-heading {
@@ -332,6 +333,31 @@ footer p {
     border: .2rem solid var(--primary-accent-color);
     border-radius: .5rem;
 }
+
+.content-heading-links {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.content-heading-links a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: var(--text-color);
+}
+
+.content-heading-links a:hover {
+    color: var(--primary-accent-color);
+}
+
+.content-heading-links a:active {
+    color: var(--secondary-accent-color);
+}
+
+.content-heading-links small {
+    font-size: 0.8rem; 
+}
+
 
 
 
