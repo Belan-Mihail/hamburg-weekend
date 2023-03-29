@@ -454,14 +454,14 @@ footer p {
 
 /* media queries */
 
-@media screen and (max-width: 1151px) {
+@media screen and (max-width: 1180px) {
     /* attractions page */
     .content-box-right-side {
         grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
     }
 }
 
-@media screen and (max-width: 969px) {
+@media screen and (max-width: 1000px) {
     /* attractions page */
     .content-box-right-side {
         grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
@@ -494,7 +494,7 @@ footer p {
     }
 }
 
-@media screen and (max-width: 810px) {
+@media screen and (max-width: 850px) {
     /* attractions page */
 
     .content-box-container {
