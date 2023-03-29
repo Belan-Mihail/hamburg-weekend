@@ -450,14 +450,14 @@ footer p {
 @media screen and (max-width: 1151px) {
     /* attractions page */
     .content-box-right-side {
-    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
     }
 }
 
 @media screen and (max-width: 969px) {
     /* attractions page */
     .content-box-right-side {
-    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
     }
 
     .content-images-box {
@@ -553,6 +553,11 @@ footer p {
 
     .social-links a {
         font-size: 1.5rem;
+    }
+
+    /* attractions page */
+    .content-heading-links small {
+        display: none;
     }
 }
 
