@@ -398,9 +398,15 @@ footer p {
     padding-right: 1rem;
 }
 
+.address {
+    margin-bottom: 2rem;
+}
+
+
 .address span {
     color: var(--secondary-accent-color);
 }
+
 
 .content-box-right-side {
     flex: 1 1 70%;
