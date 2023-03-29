@@ -369,7 +369,7 @@ footer p {
 }
 
 .content-box-left-side {
-    flex: 0 1 30%;
+    flex: 0 1 40%;
     justify-content: flex-start;
 }
 
@@ -416,21 +416,21 @@ footer p {
 }
 
 .content-box-right-side {
-    flex: 1 1 70%;
+    flex: 1 1 60%;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
     gap: .2rem;
 }
 
 .content-images-box {
-    height: 20rem;
+    height: 15rem;
     overflow: hidden;   
 }
 
 .content-images-box img {
     height: 100%;
     width: 100%;
-    object-fit: cover;  
+    object-fit: cover;
 }
 
 /* media queries */
