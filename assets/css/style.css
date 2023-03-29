@@ -358,6 +358,10 @@ footer p {
     font-size: 0.8rem; 
 }
 
+.content-heading-links small:hover {
+    color: var(--primary-accent-color);
+}
+
 .content-box-container {
     display: flex;
     justify-content: space-between;
@@ -402,11 +406,14 @@ footer p {
     margin-bottom: 2rem;
 }
 
-
 .address span {
     color: var(--secondary-accent-color);
 }
 
+.frame-box {
+    border: .2rem solid var(--secondary-accent-color);
+    border-radius: .5rem;
+}
 
 .content-box-right-side {
     flex: 1 1 70%;
@@ -425,12 +432,6 @@ footer p {
     width: 100%;
     object-fit: cover;  
 }
-
-.frame-box {
-    border: .2rem solid var(--secondary-accent-color);
-    border-radius: .5rem;
-}
-
 
 /* media queries */
 
