@@ -501,7 +501,7 @@ footer p {
     }
     
     .content-images-box {
-            height: 20rem;
+        height: 20rem;
     }
 
     .frame-box {
@@ -595,6 +595,27 @@ footer p {
 @media screen and (max-width: 450px) {
     /* index page */
     .images-box {
+        grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    }
+    /* attractions page */
+    .main-heading-row i {
+        font-size: 1.5rem;
+    }
+
+    .main-heading-row h2 {
+        font-size: 2rem;
+        letter-spacing: unset;
+    }
+
+    .content-heading {
+        font-size: 1.2rem;
+    }
+
+    .content-main-text {
+        font-size: 1rem;
+    }
+
+    .content-box-right-side {
         grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
     }
 }
