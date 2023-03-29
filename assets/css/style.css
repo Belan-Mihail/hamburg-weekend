@@ -419,6 +419,7 @@ footer p {
     border-radius: .5rem;
     width: 400px;
     height: 300px;
+    margin-bottom: 1rem;
 }
 
 .frame-box iframe {
