@@ -440,6 +440,26 @@ footer p {
 
 /* media queries */
 
+@media screen and (max-width: 1151px) {
+    /* attractions page */
+    .content-box-right-side {
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    }
+
+}
+
+@media screen and (max-width: 969px) {
+    /* attractions page */
+    .content-box-right-side {
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    }
+
+    .content-images-box {
+        height: 15rem;
+    }
+
+}
+
 @media screen and (max-width: 950px) {
     /* index page */
     #logo {
