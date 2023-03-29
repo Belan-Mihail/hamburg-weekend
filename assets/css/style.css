@@ -321,8 +321,12 @@ footer p {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.5rem 0;
-    
+    padding: 1.5rem 0;   
+}
+
+/* special rules to the second article */
+.right-side {
+    flex-direction: row-reverse;
 }
 
 .content-heading {
