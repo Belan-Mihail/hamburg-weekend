@@ -498,11 +498,16 @@ footer p {
 
     .content-box-right-side {
         grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
-        }
+    }
     
-        .content-images-box {
+    .content-images-box {
             height: 20rem;
-        }
+    }
+
+    .frame-box {
+        width: 100%;
+        height: 300px;
+    }
 }
 
 @media screen and (max-width: 750px) {
