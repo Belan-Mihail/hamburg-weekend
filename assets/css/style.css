@@ -428,7 +428,8 @@ footer p {
 
 .content-images-box {
     height: 15rem;
-    overflow: hidden;   
+    overflow: hidden;
+    border-radius: .5rem;  
 }
 
 .content-images-box img {
