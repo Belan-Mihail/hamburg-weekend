@@ -5,7 +5,7 @@
 :root {
     --text-color: rgb(80, 79, 79);
     --primary-accent-color: rgb(243, 116, 31);
-    --secondary-accent-color: rgb(38, 243, 31);
+    --secondary-accent-color: rgb(22, 212, 16);
 }
 
 * {
@@ -396,6 +396,10 @@ footer p {
 
 .official-link i {
     padding-right: 1rem;
+}
+
+.address span {
+    color: var(--secondary-accent-color);
 }
 
 .content-box-right-side {
