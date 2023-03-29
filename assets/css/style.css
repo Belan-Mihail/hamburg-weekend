@@ -426,7 +426,10 @@ footer p {
     object-fit: cover;  
 }
 
-
+.frame-box {
+    border: .2rem solid var(--secondary-accent-color);
+    border-radius: .5rem;
+}
 
 
 /* media queries */
