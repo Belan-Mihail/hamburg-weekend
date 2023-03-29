@@ -445,7 +445,6 @@ footer p {
     .content-box-right-side {
     grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
     }
-
 }
 
 @media screen and (max-width: 969px) {
@@ -479,6 +478,24 @@ footer p {
         gap: 2rem;
         font-size: 1.2rem; 
     }
+}
+
+@media screen and (max-width: 810px) {
+    /* attractions page */
+
+    .content-box-container {
+        flex-direction: column;
+        gap: .5rem;
+    }
+
+
+    .content-box-right-side {
+        grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+        }
+    
+        .content-images-box {
+            height: 20rem;
+        }
 }
 
 @media screen and (max-width: 750px) {
