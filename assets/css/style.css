@@ -378,8 +378,24 @@ footer p {
     margin-bottom: 1rem;
 }
 
+.content-links p {
+    color: var(--primary-accent-color);
+}
+
 .content-links a {
     color: var(--text-color);
+}
+
+.content-links a:hover {
+    color: var(--primary-accent-color);
+}
+
+.content-links a:active {
+    color: var(--secondary-accent-color);
+}
+
+.official-link i {
+    padding-right: 1rem;
 }
 
 .content-box-right-side {
@@ -389,18 +405,15 @@ footer p {
     gap: .2rem;
 }
 
-
 .content-images-box {
     height: 20rem;
-    overflow: hidden;
-    
+    overflow: hidden;   
 }
 
 .content-images-box img {
     height: 100%;
     width: 100%;
-    object-fit: cover;
-    
+    object-fit: cover;  
 }
 
 
