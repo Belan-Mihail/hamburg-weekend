@@ -492,7 +492,7 @@ footer p {
 
     .content-box-container {
         flex-direction: column;
-        gap: .5rem;
+        gap: 2rem;
     }
 
 
