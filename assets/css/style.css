@@ -188,7 +188,7 @@ header a {
     flex-direction: row-reverse;
 }
 
-.fa-circle-arrow-right {
+.links-box-row .fa-circle-arrow-right {
     margin-left: 1rem;
 }
 
@@ -366,6 +366,20 @@ footer p {
 
 .content-box-left-side {
     flex: 0 1 30%;
+    justify-content: flex-start;
+}
+
+.content-main-text {
+    font-size: 1.2rem;
+    padding: 1rem 0;
+}
+
+.content-links {
+    margin-bottom: 1rem;
+}
+
+.content-links a {
+    color: var(--text-color);
 }
 
 .content-box-right-side {
