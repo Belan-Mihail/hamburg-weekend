@@ -240,7 +240,7 @@ header a {
     object-fit: cover;
 }
 
-/* rules for individual pictures */
+/* special rules for individual pictures */
 .image-center-top {
     object-position: center top;
 }
