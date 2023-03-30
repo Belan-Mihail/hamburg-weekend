@@ -240,6 +240,11 @@ header a {
     object-fit: cover;
 }
 
+/* rules for individual pictures */
+.image-center-top {
+    object-position: center top;
+}
+
 .image-box img:hover {
     transform: scale(1.1);
 }
