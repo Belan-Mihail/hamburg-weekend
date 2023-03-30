@@ -462,7 +462,7 @@ footer p {
 .feedback-section {
     height: 37rem;
     width: 100%;
-    overflow: hidden; 
+    overflow: hidden;
 }
 
 .feedback-image {
@@ -477,6 +477,25 @@ footer p {
 #feedback-footer {
     margin-top: 0;
     border-top: none;
+}
+
+#feedback-form {
+    position: absolute;
+    left: 50%;
+    top: 90%;
+    transform: translate(-50%, -90%);
+    color: #fff;
+    background: rgba(243, 116, 31, 0.7);
+    padding: 2rem;
+    max-width: 25rem;
+}
+
+#feedback-form h2 {
+    font-size: 2rem;
+}
+
+#feedback-form i {
+    margin-left: .5rem;
 }
 
 /* media queries */
