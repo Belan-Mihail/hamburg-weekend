@@ -33,6 +33,18 @@
                 <img class="feedback-image" src="assets/images/feedback-page-bg-images/feedback-page-bg-mobile.jpg" alt="spreicherstadt district of Hamburg with the river and houses">
             </picture>
         </div>
+        <form method="POST" action="#" id="feedback-form">
+            <h2>Give us your feedback<i class="fa-regular fa-hand-peace"></i></h2>
+            <label for="yname">Your name</label>
+            <input type="text" id="yname" name="user_name" required placeholder="Enter your name">
+            <label for="yemail">Your email</label>
+            <input type="text" id="yemail" name="user_email" required placeholder="Enter your email">
+            <label for="yfeedback">Your feedback</label>
+            <textarea type="text" id="yfeedback" name="user_email" required placeholder="Enter your email"></textarea>
+            <input type="radio" id="consent" name="user_consent" value="consent" checked required>
+            <label for="consent">By clicking "Send" you agree to the processing of personal data</label>
+            <input type="submit" id="btn" value="Send"> 
+        </form>
     </section>
     <footer id="feedback-footer">
         <h2>Visit our social plattforms</h2>
