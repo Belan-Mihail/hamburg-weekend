@@ -290,7 +290,7 @@ footer p {
     color: var(--secondary-accent-color);
 }
 
-/* attractions, parks, museums pageg */
+/* attractions, parks, museums pages */
 
 .main-heading-row {
     padding-top: 2rem;
@@ -548,14 +548,14 @@ footer p {
 /* media queries */
 
 @media screen and (max-width: 1180px) {
-    /* attractions page */
+    /* attractions, parks, museums pages */
     .content-box-right-side {
         grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
     }
 }
 
 @media screen and (max-width: 1000px) {
-    /* attractions page */
+    /* attractions, parks, museums pages */
     .content-box-right-side {
         grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
     }
@@ -588,7 +588,7 @@ footer p {
 }
 
 @media screen and (max-width: 850px) {
-    /* attractions page */
+    /* attractions, parks, museums pages */
 
     .content-box-container {
         flex-direction: column;
@@ -655,7 +655,7 @@ footer p {
         font-size: 1.5rem;
     }
 
-    /* attractions page */
+    /* attractions, parks, museums pages */
     .content-heading-links small {
         display: none;
     }
@@ -702,7 +702,7 @@ footer p {
     .images-box {
         grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
     }
-    /* attractions page */
+    /* attractions, parks, museums pages */
     .main-heading-row i {
         font-size: 1.5rem;
     }
@@ -722,6 +722,11 @@ footer p {
 
     .content-box-right-side {
         grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    }
+
+    /* feedback page */
+    #feedback-form h2 {
+        font-size: 1.3rem;
     }
 }
 
