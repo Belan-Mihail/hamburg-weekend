@@ -26,14 +26,8 @@
         </nav>
     </header>
     <section class="feedback-section">
-        <div class="feedback-bg">
-            <picture>
-                <source srcset="/assets/images/feedback-page-bg-images/feedback-page-bg-fullscreen.jpg" media="(min-width: 62rem)">
-                <source srcset="/assets/images/feedback-page-bg-images/feedback-page-bg-tablet.jpg" media="(min-width: 40rem)">
-                <img class="feedback-image" src="assets/images/feedback-page-bg-images/feedback-page-bg-mobile.jpg" alt="spreicherstadt district of Hamburg with the river and houses">
-            </picture>
-        </div>
-        <form method="POST" action="#" id="feedback-form">
+        <div class="form">
+            <form method="POST" action="#" id="feedback-form">
             <h2>Give us your feedback<i class="fa-regular fa-hand-peace"></i></h2>
             <label for="yname" class="label">Your name</label>
             <input type="text" id="yname" name="user_name" required placeholder="Enter your name" class="text-input">
@@ -45,6 +39,7 @@
             <label for="consent" class="radio-label">By clicking "Send" you agree to the processing of personal data</label>
             <input type="submit" id="btn" value="Send"> 
         </form>
+        </div>
     </section>
     <footer id="feedback-footer">
         <h2>Visit our social plattforms</h2>

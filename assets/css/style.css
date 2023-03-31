@@ -451,6 +451,10 @@ footer p {
     border-radius: .5rem;  
 }
 
+.content-images-box:active {
+    height: 100%;
+}
+
 .content-images-box img {
     height: 100%;
     width: 100%;
@@ -460,20 +464,18 @@ footer p {
 /* feedback page */
 
 .feedback-section {
-    height: 37rem;
+    height: 56rem;
     width: 100%;
     overflow: hidden;
-    position: relative;
+    background: url("../images/feedback-page-bg-images/feedback-page-bg-fullscreen.jpg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.feedback-image {
-    max-height: 37rem;
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    border: .4rem solid var(--secondary-accent-color);
-    border-radius: .5rem;
-}
+
 
 #feedback-footer {
     margin-top: 0;
@@ -481,15 +483,11 @@ footer p {
 }
 
 #feedback-form {
-    position: absolute;
-    left: 10%;
-    top: 50%;
-    transform: translate(-10%,-50%);
+    flex: 1 0 1;
     color: #fff;
     background: rgba(243, 116, 31, 0.7);
-    max-width: 400px;
+    max-width: 25rem;
     padding: 2rem;
-    margin: 2rem 0 0 2rem;
 }
 
 #feedback-form h2 {
