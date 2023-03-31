@@ -475,15 +475,13 @@ footer p {
     align-items: center;
 }
 
-
-
 #feedback-footer {
     margin-top: 0;
     border-top: none;
 }
 
 #feedback-form {
-    flex: 1 0 1;
+    flex: 1 1 auto;
     color: #fff;
     background: rgba(243, 116, 31, 0.7);
     max-width: 25rem;
@@ -491,11 +489,13 @@ footer p {
 }
 
 #feedback-form h2 {
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
+
 
 #feedback-form i {
     margin-left: .5rem;
+    color: var(--secondary-accent-color);
 }
 
 .text-input {
