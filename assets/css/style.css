@@ -329,6 +329,20 @@ footer p {
     padding: 1.5rem 0;   
 }
 
+.advice-right-align {
+    text-align: right;
+    font-size: .8rem;
+    color: var(--secondary-accent-color);
+    margin-right: 1rem;
+}
+
+.advice-left-align {
+    text-align: left;
+    font-size: .8rem;
+    color: var(--secondary-accent-color);
+    margin-right: 1rem;
+}
+
 /* special rules to the second article */
 .right-side {
     flex-direction: row-reverse;
