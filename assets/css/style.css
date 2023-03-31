@@ -536,8 +536,8 @@ footer p {
     background: var(--secondary-accent-color);
     border-radius: .5rem;
     margin-top: 1rem;
-    margin-left: 5rem;
     opacity: .8;
+    width: 100%;
 }
 
 #btn:hover {
@@ -723,6 +723,5 @@ footer p {
     .content-box-right-side {
         grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
     }
-
 }
 
