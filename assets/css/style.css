@@ -496,6 +496,11 @@ footer p {
 #feedback-form i {
     margin-left: .5rem;
     color: var(--secondary-accent-color);
+    opacity: .8;
+}
+
+#feedback-form i:hover {
+    opacity: 1;
 }
 
 .text-input {
@@ -523,6 +528,11 @@ footer p {
     border-radius: .5rem;
     margin-top: 1rem;
     margin-left: 5rem;
+    opacity: .8;
+}
+
+#btn:hover {
+    opacity: 1;
 }
 
 
