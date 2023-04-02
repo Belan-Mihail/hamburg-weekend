@@ -4,3 +4,5 @@
 **Hamburg Weekend** - this is a travel site dedicated to some of the attractions and places to rest and visit in Hamburg. 
 
 Its purpose is to help people who come to Hamburg for a short time and do not know the city, choose one or several interesting or beautiful places to visit.
+
+![Mockup screenshot of the Hamburg Weekend website](/assets/images/readme-images/mockup-screenshot-hamburg-weekend.jpg)
