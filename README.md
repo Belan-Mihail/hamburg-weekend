@@ -8,7 +8,7 @@
 
 Its purpose is to help people who come to Hamburg for a short time and do not know the city, choose one or several interesting or beautiful places to visit.
 
-![add to repository mockup screenshot of the Hamburg Weekend website](assets/images/readme-images/mockup-screenshot-hamburg-weekend.jpg)
+![mockup screenshot of the Hamburg Weekend website](assets/images/readme-images/mockup-screenshot-hamburg-weekend.jpg)
 
 ## User Stories
 
@@ -60,6 +60,20 @@ Its purpose is to help people who come to Hamburg for a short time and do not kn
 
     - **Achievement Criteria:** the site should have a separate page for feedback with a feedback form.
 
-## Maket of project
+## Layout of project
+
+### Home Page
+
+**Fullscreen** 
+
+![home page Hamburg Weekend](assets/images/readme-images/home.png)
+
+**Ipad version**
+
+![home page Hamburg Weekend](assets/images/readme-images/home-ipad.png)
+
+**Mobile Version**
+
+![home page Hamburg Weekend](assets/images/readme-images/home-mobile.png)
 
 
