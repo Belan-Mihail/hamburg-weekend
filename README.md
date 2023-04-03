@@ -1,15 +1,16 @@
 # Hamburg Weekend
+
+## Introduction to  the project
+
 [View the online version of the site](https://belan-mihail.github.io/hamburg-weekend/)
 
 **Hamburg Weekend** - this is a travel site dedicated to some of the attractions and places to rest and visit in Hamburg. 
 
 Its purpose is to help people who come to Hamburg for a short time and do not know the city, choose one or several interesting or beautiful places to visit.
 
-![Mockup screenshot of the Hamburg Weekend website](assets/images/readme-images/mockup-screenshot-hamburg-weekend.jpg)
+![add to repository mockup screenshot of the Hamburg Weekend website](assets/images/readme-images/mockup-screenshot-hamburg-weekend.jpg)
 
-## User Experience (UX)
-
-### User Stories
+## User Stories
 
 - As a user of the site, I want to get information about various attractions and places to rest in Hamburg in order to choose an interesting place for himself to visit.
 
@@ -59,5 +60,6 @@ Its purpose is to help people who come to Hamburg for a short time and do not kn
 
     - **Achievement Criteria:** the site should have a separate page for feedback with a feedback form.
 
+## Maket of project
 
 
