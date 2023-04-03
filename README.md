@@ -1,16 +1,46 @@
+
 # Hamburg Weekend
+(Developer: Bilan Mykhaylo)
 
-## Introduction to  the project
+![Mockup image](assets/images/readme-images/mockup-screenshot-hamburg-weekend.jpg)
 
-[View the online version of the site](https://belan-mihail.github.io/hamburg-weekend/)
+[Live webpage](https://belan-mihail.github.io/hamburg-weekend/index.html)
 
-**Hamburg Weekend** - this is a travel site dedicated to some of the attractions and places to rest and visit in Hamburg. 
+## Table of Content
 
-Its purpose is to help people who come to Hamburg for a short time and do not know the city, choose one or several interesting or beautiful places to visit.
+1. [Project Goals](#project-goals)
+    1. [User Goals](#user-goals)
+    2. [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    3. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Design Choices](#design-choices)
+    2. [Colour](#colours)
+    3. [Fonts](#fonts)
+    4. [Structure](#structure)
+    5. [Wireframes](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks-&-tools)
+5. [Features](#features)
+6. [Testing](#validation)
+    1. [HTML Validation](#HTML-validation)
+    2. [CSS Validation](#CSS-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Device testing](#performing-tests-on-various-devices)
+    6. [Browser compatibility](#browser-compatability)
+    7. [Testing user stories](#testing-user-stories)
+8. [Bugs](#Bugs)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
+11. [Acknowledgements](#acknowledgements)
 
-![mockup screenshot of the Hamburg Weekend website](assets/images/readme-images/mockup-screenshot-hamburg-weekend.jpg)
 
-## User Stories
+
+### User Stories
 
 - As a user of the site, I want to get information about various attractions and places to rest in Hamburg in order to choose an interesting place for himself to visit.
 
@@ -60,13 +90,12 @@ Its purpose is to help people who come to Hamburg for a short time and do not kn
 
     - **Achievement Criteria:** the site should have a separate page for feedback with a feedback form.
 
-## Layout of project
+### Wireframes
 
-### Home Page
+<details><summary>Home</summary>
+<img src="assets/images/readme-images/home.png">
+</details>
 
-**Fullscreen** 
-
-![home page Hamburg Weekend](assets/images/readme-images/home.png)
 
 **Ipad version**
 
