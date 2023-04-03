@@ -77,3 +77,16 @@ Its purpose is to help people who come to Hamburg for a short time and do not kn
 ![home page Hamburg Weekend](assets/images/readme-images/home-mobile.png)
 
 
+## Features
+
+ - ### Navigation
+
+   - This section is located at the top of the page. On the left is the site logo, which is a link to the home page. To the right about other navigation links (houses, sights, parks, museums, feedback) that are indicated on various pages of the site.
+
+   - This section is duplicated on all pages of the site so that the user can easily navigate through the pages of the site without using the "back" button.
+
+   - This section has a color that contrasts with the background. The capital letters of the logo have an individual eye-catching color and a larger size.
+
+   - for the convenience of the user, the active page of the site is underlined with an orange line. Other navigation links become underlined with a green line on hover.
+
+   ------
