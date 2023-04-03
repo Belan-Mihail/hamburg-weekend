@@ -39,6 +39,21 @@
 11. [Acknowledgements](#acknowledgements)
 
 
+## Project Goals
+
+### User Goals
+
+  - Learn about Hamburg attractions and other interesting places to visit;
+  - See photos of Hamburg attractions and other interesting places to visit;
+  - Find out about the location of Hamburg attractions and other interesting places to visit;
+
+### Site Owner Goals
+
+  - Increase in the number of guests;
+  - Providing information of interest to visitors;
+  - Getting positive feedback from site users;
+
+
 
 ### User Stories
 
@@ -94,6 +109,8 @@
 
 <details><summary>Home</summary>
 <img src="assets/images/readme-images/home.png">
+<img src="assets/images/readme-images/home-ipad.png">
+<img src="assets/images/readme-images/home-mobile.png">
 </details>
 
 
