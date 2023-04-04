@@ -271,7 +271,7 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
  - ### Logo and Navigation
 
-   - This section is located at the top of the page. On the left is the site logo, which is a link to the home page. To the right about other navigation links (houses, sights, parks, museums, feedback) that are indicated on various pages of the site.
+   - This section is located at the top of the page. On the left is the site logo, which is a link to the home page. To the right about other navigation links (home, attractions, parks, museums, feedback) that are indicated on various pages of the site.
 
    - This section is duplicated on all pages of the site so that the user can easily navigate through the pages of the site without using the "back" button.
 
@@ -313,3 +313,22 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 ![Places-section](assets/images/readme-images/feature-images/places-section-one.jpg)
 ![Places-section](assets/images/readme-images/feature-images/places-section-two.jpg)
 ![Places-section](assets/images/readme-images/feature-images/places-section-three.jpg)
+
+------
+
+### Footer
+
+- This section is located at the bottom of the page. in the middle, in a large, well-readable font, there is a title calling for action - visiting the social pages of the site. Below, under the heading, there are icons depicting the corresponding social networks, which are links.
+
+- This section is duplicated on all pages of the site.
+
+- When hovering over icons, a hover effect is triggered for greater user interaction. When pressed, a new color appears for even more user interaction.
+
+- The color of the text and icons contrasts well with the background of the section.
+
+- A green stripe of one of the site's accent colors additionally separates the section from the neighboring section.
+
+![Footer](assets/images/readme-images/feature-images/footer-one.jpg)
+![Footer](assets/images/readme-images/feature-images/footer-two.jpg)
+
+------
