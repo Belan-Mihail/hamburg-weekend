@@ -143,6 +143,23 @@ For the text content on the site, a gray color was chosen, which contrasts well 
 <img src="assets/images/readme-images/screenshot-adobe-color.jpg">
 </details>
 
+### Fonts
+
+For plain text, the Mulish font is used, connected using google fonts. For headings, Magra font was used with more bold fonts. Used fonts are well combined with each other
+
+### Structure
+
+The page is structured in a well know and user friendly. Upon arriving to the website the user sees a familiar type of navigation bar with the logo on the left side and the navigation links to the right. The website consists of five separate pages:
+
+- ***Home Page:*** contains a navigation menu in the header, a hero section with a title explaining the essence of the site and a photo corresponding to the topic of the site, a place section with photos and descriptions of possible vacation spots, as well as a footer with links-icons to social networks;
+
+- ***Attractions Page:***contains a navigation menu in the header, three articles with a description, photos, coordinates one of the Hamburg attractions and a link to the official page, as well as a footer with links-icons to social networks;
+
+- ***Parks Page***contains a navigation menu in the header, three articles with a description, photos, coordinates one of the Hamburg parks and a link to the official page, as well as a footer with links-icons to social networks;
+
+- ***Museums Page:***contains a navigation menu in the header, three articles with a description, photos, coordinates one of the Hamburg museums and a link to the official page, as well as a footer with links-icons to social networks;
+
+- ***Feedback Page:***contains a navigation menu in the header, a section with a feedback form, as well as a footer with links-icons to social networks.
 
 ### Wireframes
 
