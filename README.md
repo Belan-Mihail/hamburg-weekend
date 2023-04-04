@@ -114,20 +114,11 @@
 
 ### Wireframes
 
-<details><summary>Home</summary>
-<img src="assets/images/readme-images/home.png">
-<img src="assets/images/readme-images/home-ipad.png">
-<img src="assets/images/readme-images/home-mobile.png">
+<details><summary>Home Page Wireframes</summary>
+<img src="assets/images/readme-images/wireframe-images/home.png">
+<img src="assets/images/readme-images/wireframe-images/home-ipad.png">
+<img src="assets/images/readme-images/wireframe-images/home-mobile.png">
 </details>
-
-
-**Ipad version**
-
-![home page Hamburg Weekend](assets/images/readme-images/home-ipad.png)
-
-**Mobile Version**
-
-![home page Hamburg Weekend](assets/images/readme-images/home-mobile.png)
 
 
 ## Features
