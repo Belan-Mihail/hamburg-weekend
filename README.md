@@ -53,7 +53,14 @@
   - Providing information of interest to visitors;
   - Getting positive feedback from site users;
 
+## User Experience
 
+### Target Audience
+
+  - Single tourists who came to Hamburg;
+  - Small tourist groups came to Hamburg;
+  - People who came for a few days on a business trip to Hamburg;
+  - Refugees and other people who have recently arrived in Hamburg;
 
 ### User Stories
 
