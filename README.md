@@ -26,6 +26,7 @@
     2. [Frameworks & Tools](#frameworks-&-tools)
 5. [Features](#features)
     1. [Logo and Navigation](#logo-and-navigation)
+    2. [Hero section](#hero-section)
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
@@ -283,4 +284,13 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
   ----
 
-  
+  ### Hero-section
+
+- This section is located only on the home page, immediately below the navigation menu.
+
+- Instead of a section background, a thematic picture is used that corresponds to the main theme of the site.
+
+- The title, which provides the user with a complete understanding of the subject of the site, is located on the orange "carpet" for contrast with the background image.
+
+
+![Hero section](assets/images/readme-images/feature-images/hero-section.jpg)
