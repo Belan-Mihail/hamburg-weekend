@@ -165,66 +165,75 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 <details><summary>Home Page Wireframes</summary>
 
-
-<details><summary>Home Page Fullscreen</summary>
+- <details><summary>Home Page Fullscreen</summary>
 <img src="assets/images/readme-images/wireframe-images/home.png">
 </details>
 
-
-<details><summary>Home Page Ipad</summary>
+- <details><summary>Home Page Ipad</summary>
 <img src="assets/images/readme-images/wireframe-images/home-ipad.png">
 </details>
 
-
-<details><summary>Home Page Mobile</summary>
+- <details><summary>Home Page Mobile</summary>
 <img src="assets/images/readme-images/wireframe-images/home-mobile.png">
 </details>
 </details>
 
 <details><summary>Attraction Page Wireframes</summary>
-<details><summary>Attraction Page Fullscreen</summary>
+
+- <details><summary>Attraction Page Fullscreen</summary>
 <img src="assets/images/readme-images/wireframe-images/attractions.png">
 </details>
-<details><summary>Attraction Page Ipad</summary>
+
+- <details><summary>Attraction Page Ipad</summary>
 <img src="assets/images/readme-images/wireframe-images/attractions-ipad.png">
 </details>
-<details><summary>Attraction Page Mobile</summary>
+
+- <details><summary>Attraction Page Mobile</summary>
 <img src="assets/images/readme-images/wireframe-images/attractions-mobile.png">
 </details>
 </details>
 
 <details><summary>Parks Page Wireframes</summary>
-<details><summary>Park Page Fullscreen</summary>
+
+- <details><summary>Park Page Fullscreen</summary>
 <img src="assets/images/readme-images/wireframe-images/parks.png">
 </details>
-<details><summary>Park Page Ipad</summary>
+
+- <details><summary>Park Page Ipad</summary>
 <img src="assets/images/readme-images/wireframe-images/parks-ipad.png">
 </details>
-<details><summary>Park Page Mobile</summary>
+
+- <details><summary>Park Page Mobile</summary>
 <img src="assets/images/readme-images/wireframe-images/parks-mobile.png">
 </details>
 </details>
 
 <details><summary>Museum Page Wireframes</summary>
-<details><summary>Museum Page Fullscreen</summary>
+
+- <details><summary>Museum Page Fullscreen</summary>
 <img src="assets/images/readme-images/wireframe-images/museums.png">
 </details>
-<details><summary>Museum Page Ipad</summary>
+
+- <details><summary>Museum Page Ipad</summary>
 <img src="assets/images/readme-images/wireframe-images/museums-ipad.png">
 </details>
-<details><summary>Museum Page Mobile</summary>
+
+- <details><summary>Museum Page Mobile</summary>
 <img src="assets/images/readme-images/wireframe-images/museums-mobile.png">
 </details>
 </details>
 
 <details><summary>Feedback Page Wireframes</summary>
-<details><summary>Feedback Page Fullscreen</summary>
+
+- <details><summary>Feedback Page Fullscreen</summary>
 <img src="assets/images/readme-images/wireframe-images/feedback.png">
 </details>
-<details><summary>Feedback Page Ipad</summary>
+
+- <details><summary>Feedback Page Ipad</summary>
 <img src="assets/images/readme-images/wireframe-images/feedback-ipad.png">
 </details>
-<details><summary>Feedback Page Mobile</summary>
+
+- <details><summary>Feedback Page Mobile</summary>
 <img src="assets/images/readme-images/wireframe-images/feedback-mobile.png">
 </details>
 </details>
