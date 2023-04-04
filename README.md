@@ -25,6 +25,7 @@
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
 5. [Features](#features)
+    1. [Logo and Navigation](#logo-and-navigation)
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
@@ -264,22 +265,9 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 - **Paint.NET.** Used to process screenshots and pictures.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Features
 
- - ### Navigation
+ - ### Logo and Navigation
 
    - This section is located at the top of the page. On the left is the site logo, which is a link to the home page. To the right about other navigation links (houses, sights, parks, museums, feedback) that are indicated on various pages of the site.
 
@@ -289,4 +277,10 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
    - for the convenience of the user, the active page of the site is underlined with an orange line. Other navigation links become underlined with a green line on hover.
 
-   ------
+
+
+  ![Logo an Navigation](assets/images/readme-images/feature-images/logo-and-navigation.jpg)
+
+  ----
+
+  
