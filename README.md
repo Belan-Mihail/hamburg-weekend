@@ -238,6 +238,45 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 </details>
 </details>
 
+## Technologies Used
+
+### Languages
+
+- HTML;
+- CSS;
+
+### Frameworks & Tools
+
+- **Balsamiq.** Used to create the skeleton of the project; 
+
+- **Google Fonts.** Used to connect fonts to the project;
+
+- **Adobe Color.** Used to select colors; 
+
+- **Font Awsome.** Used to place icons on project pages;
+
+- **Git.** Used for version control;
+
+- **GitHub.** Used to store the project code after being pushed from Git;
+
+- **Gitpod.** Used to write html and css project code;
+
+- **Paint.NET.** Used to process screenshots and pictures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Features
 
  - ### Navigation
