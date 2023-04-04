@@ -28,6 +28,7 @@
     1. [Logo and Navigation](#logo-and-navigation)
     2. [Hero section](#hero-section)
     3. [Places section](#places-section)
+    4. [Footer](#footer)
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
@@ -281,7 +282,7 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 
 
-  ![Logo an Navigation](assets/images/readme-images/feature-images/logo-and-navigation.jpg)
+  ![Logo an Navigation](assets/images/readme-images/feature-images/home-page/logo-and-navigation.jpg)
 
   ----
 
@@ -294,7 +295,7 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 - The title, which provides the user with a complete understanding of the subject of the site, is located on the orange "carpet" for contrast with the background image.
 
 
-![Hero-section](assets/images/readme-images/feature-images/hero-section.jpg)
+![Hero-section](assets/images/readme-images/feature-images/home-page/hero-section.jpg)
 
 ------
 
@@ -310,9 +311,9 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - To create a positive visual effect, the paired thematic block of the section has a reverse order of the text content.
 
-![Places-section](assets/images/readme-images/feature-images/places-section-one.jpg)
-![Places-section](assets/images/readme-images/feature-images/places-section-two.jpg)
-![Places-section](assets/images/readme-images/feature-images/places-section-three.jpg)
+![Places-section](assets/images/readme-images/feature-images/home-page/places-section-one.jpg)
+![Places-section](assets/images/readme-images/feature-images/home-page/places-section-two.jpg)
+![Places-section](assets/images/readme-images/feature-images/home-page/places-section-three.jpg)
 
 ------
 
@@ -328,7 +329,7 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - A green stripe of one of the site's accent colors additionally separates the section from the neighboring section.
 
-![Footer](assets/images/readme-images/feature-images/footer-one.jpg)
-![Footer](assets/images/readme-images/feature-images/footer-two.jpg)
+![Footer](assets/images/readme-images/feature-images/home-page/footer-one.jpg)
+![Footer](assets/images/readme-images/feature-images/home-page/footer-two.jpg)
 
 ------
