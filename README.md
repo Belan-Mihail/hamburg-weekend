@@ -27,6 +27,7 @@
 5. [Features](#features)
     1. [Logo and Navigation](#logo-and-navigation)
     2. [Hero section](#hero-section)
+    3. [Places section](#places-section)
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
@@ -293,4 +294,22 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 - The title, which provides the user with a complete understanding of the subject of the site, is located on the orange "carpet" for contrast with the background image.
 
 
-![Hero section](assets/images/readme-images/feature-images/hero-section.jpg)
+![Hero-section](assets/images/readme-images/feature-images/hero-section.jpg)
+
+------
+
+### Places section
+
+- This section is located only on the home page, immediately below hero-section.
+
+- The section demonstrates the main attractions and places for rest in Hamburg, which information is contained on other - thematic pages of the site.
+
+- Images of attractions, parks and museums are links, when clicked, the user moves to the corresponding thematic section. On hover, the images increase in size, which creates a positive reaction to the user's actions.
+
+- The section is decorated with thematic icons and additional links with hover effect.
+
+- To create a positive visual effect, the paired thematic block of the section has a reverse order of the text content.
+
+![Places-section](assets/images/readme-images/feature-images/places-section-one.jpg)
+![Places-section](assets/images/readme-images/feature-images/places-section-two.jpg)
+![Places-section](assets/images/readme-images/feature-images/places-section-three.jpg)
