@@ -131,9 +131,18 @@
 
 ## Design
 
-## Design Choices
+### Design Choices
 
-The site is designed to maximize the interest of users and provide them with brief but meaningful information about the objects of interest to them. The main focus should be on providing the user with more visual information about sights and places for recreation, as well as on the convenience of the user in moving around the site
+The site is designed to maximize the interest of users and provide them with brief but meaningful information about the objects of interest to them. The main focus should be on providing the user with more visual information about sights and places for recreation, as well as on the convenience of the user in moving around the site.
+
+### Colors
+
+For the text content on the site, a gray color was chosen, which contrasts well with the white background of the site. Fresh green and bright flowers were chosen for the accent and also to observe the interesting effect. The text content in the photo was overlaid with an accent color of orange, while the text content became white for contrast. I used Adobe Color to select the color.
+
+<details><summary>Screenshot (Adobe Color)</summary>
+<img src="assets/images/readme-images/screenshot-adobe-color.jpg">
+</details>
+
 
 ### Wireframes
 
