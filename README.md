@@ -121,6 +121,20 @@
 
     - **Achievement Criteria:** the site should have a separate page for feedback with a feedback form.
 
+### Site Owner Stories
+
+- As a owner of the site, i want:
+
+    - Increase in the number of guests;
+    - Providing users of the site with information of interest to them;
+    - Getting positive feedback from site users; 
+
+## Design
+
+## Design Choices
+
+The site is designed to maximize the interest of users and provide them with brief but meaningful information about the objects of interest to them. The main focus should be on providing the user with more visual information about sights and places for recreation, as well as on the convenience of the user in moving around the site
+
 ### Wireframes
 
 <details><summary>Home Page Wireframes</summary>
