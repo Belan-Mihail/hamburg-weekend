@@ -62,6 +62,15 @@
   - People who came for a few days on a business trip to Hamburg;
   - Refugees and other people who have recently arrived in Hamburg;
 
+### User Requrements and Expectations
+
+  - Simple and user-friendly website design;
+  - Thematic division of content;
+  - Convenient navigation menu and additional buttons for moving from object to object;
+  - Visualization of the object
+  - Each object has links to the official page or a page with more detailed information about the object;
+  - Availability of information about the location of the object.
+
 ### User Stories
 
 - As a user of the site, I want to get information about various attractions and places to rest in Hamburg in order to choose an interesting place for himself to visit.
