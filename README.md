@@ -422,3 +422,29 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 
 ------
+
+## Testing
+
+### HTML Validation
+
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+
+<details><summary>Home</summary>
+<img src="assets/images/readme-images/validation-images/home-page-validation.jpg">
+</details>
+
+<details><summary>Attractions</summary>
+<img src="assets/images/readme-images/validation-images/attractions-page-validation.jpg">
+</details>
+
+<details><summary>Parks</summary>
+<img src="assets/images/readme-images/validation-images/parks-page-validation.jpg">
+</details>
+
+<details><summary>Museums</summary>
+<img src="assets/images/readme-images/validation-images/museums-page-validation.jpg">
+</details>
+
+<details><summary>Feedback</summary>
+<img src="assets/images/readme-images/validation-images/feedback-page-validation.jpg">
+</details>
