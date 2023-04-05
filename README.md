@@ -405,3 +405,20 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 ------
 
 ### Feedback
+
+- This section is located only on the feedback page, immediately below navigation bar.
+
+- Instead of a section background, a thematic picture is used that corresponds to the main theme of the site.
+
+- The feedback form is located on the orange "carpet" for contrast with the background image.
+
+- The feedback form is consisted from name input block, email input block and textarea block for users feedback. Below is the submit button.
+
+- To be more responsive to user actions, mouseover input forms get green borders, and the button changes color tint and becomes larger.
+
+- For the convenience of the user, the input fields contain a placeholder text.
+
+![Feedback](assets/images/readme-images/feature-images/feedback.jpg)
+
+
+------
