@@ -362,6 +362,25 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 ### Parks
 
+- Thematic page dedicated to the parks of Hamburg. Starts with a large font title.
+
+- Conditionally the page is divided into three articles, each of which is devoted to one park of Hamburg.
+
+- Each article about the park is divided into two sides: the left side contains the name of the attraction, a short description, a link to the official website, an address and a map with the location of the object; the right side contains photos of the object.
+
+- To create a beautiful visual effect, each paired block (articles) has a reverse order of elements.
+
+- Articles are decorated with thematic links, and also interact with the user using the hover effect on the links and on the name of the object.
+
+- For the convenience of moving from object to object, each article (depending on its position on the page) has arrow icons that are internal links for moving to the next / previous object, which saves the user from having to scroll the page while reading.
+
+- when you click on any image and hold it, the height of the image becomes 100%, which allows the user to see the entire image and get a better idea of the object.
+
+![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-one.jpg)
+![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-two.jpg)
+![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-three.jpg)
+
+
 ### Museums
 
 ### Feedback
