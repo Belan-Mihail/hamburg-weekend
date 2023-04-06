@@ -448,3 +448,11 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <details><summary>Feedback</summary>
 <img src="assets/images/readme-images/validation-images/feedback-page-validation.jpg">
 </details>
+
+### CSS Validation
+
+W3C Jigsaw CSS Validation Service was used to validate CSS
+
+<details><summary>style.css</summary>
+<img src="assets/images/readme-images/validation-images/css-validation.jpg">
+</details>
