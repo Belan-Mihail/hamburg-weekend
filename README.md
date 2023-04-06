@@ -568,9 +568,9 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 **Action** | **Result** 
  -----------| ----------  
- 1.Navigate to the Attractions Page and scroll down. |  Find a brief description of the attractions in Hamburg
- 2.Navigate to the Parks Page |  Find a brief description of the parks in Hamburg
- 3.Navigate to the Museums Page |  Find a brief description of the museums in Hamburg
+ 1.Navigate to the Attractions Page and scroll down. |  Find a brief description of attractions in Hamburg
+ 2.Navigate to the Parks Page |  Find a brief description of parks in Hamburg
+ 3.Navigate to the Museums Page |  Find a brief description of museums in Hamburg
 
  <details><summary>Screenshot evidences</summary>
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
@@ -583,11 +583,28 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 **Action** | **Result** 
  -----------| ----------  
- 1.Navigate to the Attractions Page and scroll down (after descriptions) |  Find a link to thr official pages or pages with more information about the attractions in Hamburg
- 2.Navigate to the Parks Page and scroll down (after descriptions) |  Find a link to thr official pages or pages with more information about the parks in Hamburg
- 3.Navigate to the Museums Page  and scroll down (after descriptions)|  Find a link to thr official pages or pages with more information about the museums in Hamburg
+ 1.Navigate to the Attractions Page and scroll down (after descriptions) |  Find a link to the official pages or pages with more information about attractions in Hamburg
+ 2.Navigate to the Parks Page and scroll down (after descriptions) |  Find a link to the official pages or pages with more information about parks in Hamburg
+ 3.Navigate to the Museums Page  and scroll down (after descriptions)|  Find a link to the official pages or pages with more information about museums in Hamburg
 
  <details><summary>Screenshot evidences</summary>
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
 <img src="assets/images/readme-images/user-stories-test-evidence/fourth-user-strory-evidence.jpg">
 </details> 
+
+---
+
+5. As a user of the site, I want to receive information about the addresses of attractions or places to rest in Hamburg in order to be able to get to the object.
+
+**Action** | **Result** 
+ -----------| ----------  
+ 1.Navigate to the Attractions Page and scroll down (after officail links) |  Find a information about the addresses of attractions in Hamburg and Google Map
+ 2.Navigate to the Parks Page and scroll down (after officail links) |  Find a information about the addresses of parks in Hamburg and Google Map.
+ 3.Navigate to the Museums Page  and scroll down (after officail links)|  Find a information about the addresses of museums in Hamburg and Google Map.
+
+ <details><summary>Screenshot evidences</summary>
+since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
+<img src="assets/images/readme-images/user-stories-test-evidence/fifth-user-strory-evidence.jpg">
+</details> 
+
+---
