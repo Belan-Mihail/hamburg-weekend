@@ -526,14 +526,40 @@ The website was tested on the following browsers:
 
 ### Testing User Stories
 
-As a user of the site, I want to get information about various attractions and places to rest in Hamburg in order to choose an interesting place for himself to visit.
+1. As a user of the site, I want to get information about various attractions and places to rest in Hamburg in order to choose an interesting place for himself to visit.
 
- Action | Result 
- :---:  | :---:  
+ **Action** | **Result** 
+ -----------| ----------  
  1.Go to the places section on the Home page | Find interesting places 
  2.Navigate to the Attractions Page |  Find interesting places
  3.Navigate to the Parks Page |  Find interesting places
  4.Navigate to the Museums Page |  Find interesting places
 
 <details><summary>Screenshot evidences</summary>
+the size of the site is deliberately reduced to provide evidence
+<img src="assets/images/readme-images/user-stories-test-evidence/first-user-strory-evidence-one.jpg">
+
+since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
+<img src="assets/images/readme-images/user-stories-test-evidence/first-user-strory-evidence-two.jpg">
 </details> 
+
+----
+
+2. As a user of the site, I want to get a visual idea of the attractions and places to rest in Hamburg (by viewing photos of these places) in order to choose an interesting place to visit.
+
+ **Action** | **Result** 
+ -----------| ----------  
+ 1.Go to the places section on the Home page | Find interesting places 
+ 2.Navigate to the Attractions Page |  Find interesting places
+ 3.Navigate to the Parks Page |  Find interesting places
+ 4.Navigate to the Museums Page |  Find interesting places
+
+<details><summary>Screenshot evidences</summary>
+the size of the site is deliberately reduced to provide evidence
+<img src="assets/images/readme-images/user-stories-test-evidence/second-user-strory-evidence-one.jpg">
+
+since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
+<img src="assets/images/readme-images/user-stories-test-evidence/second-user-strory-evidence-two.jpg">
+</details> 
+
+---
