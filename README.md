@@ -145,7 +145,7 @@ The site is designed to maximize the interest of users and provide them with bri
 
 ### Colors
 
-For the text content on the site, a gray color was chosen, which contrasts well with the white background of the site. Fresh green and bright flowers were chosen for the accent and also to observe the interesting effect. The text content in the photo was overlaid with an accent color of orange, while the text content became white for contrast. I used Adobe Color to select the color.
+For the text content on the site, a white color was chosen, which contrasts well with the dark background of the site. Green and orange were chosen for the accent as well as for the hover effects. The text content in the photo was overlaid with an orange accent. I used Adobe Color to select the color.
 
 <details><summary>Screenshot (Adobe Color)</summary>
 <img src="assets/images/readme-images/screenshot-adobe-color.jpg">
@@ -333,8 +333,8 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - A green stripe of one of the site's accent colors additionally separates the section from the neighboring section.
 
-![Footer](assets/images/readme-images/feature-images/home-page/footer-one.jpg)
-![Footer](assets/images/readme-images/feature-images/home-page/footer-two.jpg)
+![Footer](assets/images/readme-images/feature-images/home-page/footer.jpg)
+
 
 ------
 
