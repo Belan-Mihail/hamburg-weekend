@@ -354,9 +354,9 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - when you click on any image and hold it, the height of the image becomes 100%, which allows the user to see the entire image and get a better idea of the object.
 
-![Attractions](assets/images/readme-images/feature-images/attractions-parks-museums/attractions-one.jpg)
-![Attractions](assets/images/readme-images/feature-images/attractions-parks-museums/attractions-two.jpg)
-![Attractions](assets/images/readme-images/feature-images/attractions-parks-museums/attractions-three.jpg)
+![Attractions](assets/images/readme-images/feature-images/attractions-parks-museums/attractions-page-one.jpg)
+![Attractions](assets/images/readme-images/feature-images/attractions-parks-museums/attractions-page-two.jpg)
+![Attractions](assets/images/readme-images/feature-images/attractions-parks-museums/attractions-page-three.jpg)
 
 ------
 
@@ -376,9 +376,9 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - when you click on any image and hold it, the height of the image becomes 100%, which allows the user to see the entire image and get a better idea of the object.
 
-![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-one.jpg)
-![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-two.jpg)
-![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-three.jpg)
+![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-page-one.jpg)
+![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-page-two.jpg)
+![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-page-three.jpg)
 
 ------
 
@@ -398,9 +398,9 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - when you click on any image and hold it, the height of the image becomes 100%, which allows the user to see the entire image and get a better idea of the object.
 
-![Museums](assets/images/readme-images/feature-images/attractions-parks-museums/museum-one.jpg)
-![Museums](assets/images/readme-images/feature-images/attractions-parks-museums/museum-two.jpg)
-![Museums](assets/images/readme-images/feature-images/attractions-parks-museums/museum-three.jpg)
+![Museums](assets/images/readme-images/feature-images/attractions-parks-museums/museums-page-one.jpg)
+![Museums](assets/images/readme-images/feature-images/attractions-parks-museums/museums-page-two.jpg)
+![Museums](assets/images/readme-images/feature-images/attractions-parks-museums/museums-page-three.jpg)
 
 ------
 
