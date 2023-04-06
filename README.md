@@ -568,9 +568,9 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 **Action** | **Result** 
  -----------| ----------  
- 1.Navigate to the Attractions Page and scroll down. |  Find a brief description of attractions in Hamburg
- 2.Navigate to the Parks Page |  Find a brief description of parks in Hamburg
- 3.Navigate to the Museums Page |  Find a brief description of museums in Hamburg
+ 1.Navigate to the Attractions Page and scroll down |  Find a brief description of attractions in Hamburg
+ 2.Navigate to the Parks Page and scroll down |  Find a brief description of parks in Hamburg
+ 3.Navigate to the Museums Page and scroll down |  Find a brief description of museums in Hamburg
 
  <details><summary>Screenshot evidences</summary>
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
@@ -654,4 +654,17 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 
     **Status**: bug fixed;
+
+## Deployment
+
+The website was deployed using GitHub Pages by following these steps:
+
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+For the source select Branch: master
+3. After the website completed automaticaly you will be a ribbon on the top saying: "Your site is published at https://belan-mihail.github.io/hamburg-weekend/"
+
+
+The live link can be found here - [Hamburg Weekend](https://belan-mihail.github.io/hamburg-weekend/index.html)
+
 
