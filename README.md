@@ -564,7 +564,7 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 ---
 
-As a user of the site, I want to get a brief description of the attractions and places to rest in Hamburg that I can visit in order to choose an interesting place to visit.
+3. As a user of the site, I want to get a brief description of the attractions and places to rest in Hamburg that I can visit in order to choose an interesting place to visit.
 
 **Action** | **Result** 
  -----------| ----------  
@@ -578,3 +578,16 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 </details> 
 
 ----
+
+4. As a user of the site, I want to get the opportunity to get more detailed information about the attractions and places to rest in Hamburg in order to choose an interesting place to visit.
+
+**Action** | **Result** 
+ -----------| ----------  
+ 1.Navigate to the Attractions Page and scroll down (after descriptions) |  Find a link to thr official pages or pages with more information about the attractions in Hamburg
+ 2.Navigate to the Parks Page and scroll down (after descriptions) |  Find a link to thr official pages or pages with more information about the parks in Hamburg
+ 3.Navigate to the Museums Page  and scroll down (after descriptions)|  Find a link to thr official pages or pages with more information about the museums in Hamburg
+
+ <details><summary>Screenshot evidences</summary>
+since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
+<img src="assets/images/readme-images/user-stories-test-evidence/fourth-user-strory-evidence.jpg">
+</details> 
