@@ -3,7 +3,7 @@
 /* General styles */
 
 :root {
-    --text-color: rgb(80, 79, 79);
+    --text-color: #fff;
     --primary-accent-color: rgb(243, 116, 31);
     --secondary-accent-color: rgb(22, 212, 16);
 }
@@ -13,6 +13,7 @@
     padding: 0;
     border: none;
     box-sizing: border-box;
+    background-color: #1A1A1A;
 }
 
 body {
@@ -101,7 +102,6 @@ header a {
 .cover-text {
     width: 20rem;
     height: 5rem;
-    background-color: rgba(243, 116, 31, 0.7);
     position: absolute;
     left: 50%;
     top: 25%;
@@ -121,8 +121,14 @@ header a {
     color: #fff;
 }
 
-.cover-text span {
+.cover-text span:first-child {
     font-size: 2.5rem;
+    color: var(--primary-accent-color);
+}
+
+.cover-text span:last-child {
+    font-size: 2.5rem;
+    color: var(--secondary-accent-color);
 }
 
 /* places section */
@@ -494,12 +500,24 @@ footer p {
 
 .form {
     margin: 0 1rem;
+    background: #fff;
+    color: #1A1A1A;
+}
+
+.form label {
+    background: transparent;
+    color: #1A1A1A;
+}
+
+.form input, .form textarea {
+    background: #fff;
+    color: #1A1A1A;
 }
 
 #feedback-form {
     flex: 1 1 auto;
     color: #fff;
-    background: rgba(243, 116, 31, 0.7);
+    background: rgba(243, 116, 31);
     max-width: 25rem;
     padding: 2rem;
 }
@@ -510,16 +528,14 @@ footer p {
 
 #feedback-form h2 {
     font-size: 1.8rem;
+    background: transparent;
+    color: #1A1A1A;
 }
 
 #feedback-form i {
     margin-left: .5rem;
-    color: var(--secondary-accent-color);
-    opacity: .8;
-}
-
-#feedback-form i:hover {
-    opacity: 1;
+    color: #1A1A1A;
+    background: transparent;
 }
 
 .text-input {
@@ -544,16 +560,11 @@ footer p {
     display: block;
     padding: .5rem  4rem;
     text-align: center;
-    color: #fff;
+    color: #1A1A1A;
     background: var(--secondary-accent-color);
     border-radius: .5rem;
     margin-top: 1rem;
-    opacity: .8;
     width: 100%;
-}
-
-#btn:hover {
-    opacity: 1;
 }
 
 
