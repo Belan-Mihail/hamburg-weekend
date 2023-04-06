@@ -480,3 +480,28 @@ Accessibility testing was carried out using the WAVE WebAIM service. No contrast
 <details><summary>Feedback</summary>
 <img src="assets/images/readme-images/accessibility/feedback-page-accessibility-check.jpg">
 </details>
+
+## Performance
+
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website.
+
+
+<details><summary>Home</summary>
+<img src="assets/images/readme-images/performance/home-page-performance-check.jpg">
+</details>
+
+<details><summary>Attractions</summary>
+<img src="assets/images/readme-images/performance/attractions-page-performance-check.jpg">
+</details>
+
+<details><summary>Parks</summary>
+<img src="assets/images/readme-images/performance/parks-page-performance-check.jpg">
+</details>
+
+<details><summary>Museums</summary>
+<img src="assets/images/readme-images/performance/museums-page-performance-check.jpg">
+</details>
+
+<details><summary>Feedback</summary>
+<img src="assets/images/readme-images/performance/feedback-page-performance-check.jpg">
+</details>
