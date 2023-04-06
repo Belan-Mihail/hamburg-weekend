@@ -685,6 +685,13 @@ The icons used on the site were taken from the site - [Font Awesome](https://fon
 
 The media content of the home page, the feedback page, as well as the media content from all the objects listed on the attraction page was taken from the site - [Pixabay](https://pixabay.com/)
 
+## Acknowledgements
+
+I would like to express my sincere gratitude:
+
+  - My mentor Mo Shami for his advice and support.
+  - My daughter Alice for always giving me inspiration and strength to go forward.
+
 
 
 
