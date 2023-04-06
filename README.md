@@ -459,3 +459,24 @@ W3C Jigsaw CSS Validation Service was used to validate CSS
 
 ## Accessibility
 
+Accessibility testing was carried out using the WAVE WebAIM service. No contrast errors were found. On the page attractions, parks and museums, 4 errors of the same type (Empty link) were found regarding icon links for switching between page objects, however, the description of the purpose of these links is made in separate paragraphs in order to make it easier to manage elements - and therefore errors do not actually exist.
+
+<details><summary>Home</summary>
+<img src="assets/images/readme-images/accessibility/home-page-accessibility-check.jpg">
+</details>
+
+<details><summary>Attractions</summary>
+<img src="assets/images/readme-images/accessibility/attractions-page-accessibility-check.jpg">
+</details>
+
+<details><summary>Parks</summary>
+<img src="assets/images/readme-images/accessibility/parks-page-accessibility-check.jpg">
+</details>
+
+<details><summary>Museums</summary>
+<img src="assets/images/readme-images/accessibility/museums-page-accessibility-check.jpg">
+</details>
+
+<details><summary>Feedback</summary>
+<img src="assets/images/readme-images/accessibility/feedback-page-accessibility-check.jpg">
+</details>
