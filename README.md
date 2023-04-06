@@ -524,3 +524,16 @@ The website was tested on the following browsers:
    - Yandex Browser;
    - Mozilla Firefox;
 
+### Testing User Stories
+
+As a user of the site, I want to get information about various attractions and places to rest in Hamburg in order to choose an interesting place for himself to visit.
+
+ Action | Result 
+ :---:  | :---:  
+ 1.Go to the places section on the Home page | Find interesting places 
+ 2.Navigate to the Attractions Page |  Find interesting places
+ 3.Navigate to the Parks Page |  Find interesting places
+ 4.Navigate to the Museums Page |  Find interesting places
+
+<details><summary>Screenshot evidences</summary>
+</details> 
