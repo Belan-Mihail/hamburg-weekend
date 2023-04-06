@@ -608,3 +608,50 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 </details> 
 
 ---
+
+6. As a user of the site, I want to get the opportunity to send a feedback to the website adminastraitions. 
+
+**Action** | **Result** 
+ -----------| ----------  
+ 1.Navigate to the Feedback Page and scroll down. Then fill the feedback form and press "Send"|  You can send feedback
+
+
+ <details><summary>Screenshot evidences</summary>
+<img src="assets/images/readme-images/user-stories-test-evidence/sixth-user-strory-evidence.jpg">
+</details> 
+
+## Bugs
+
+
+
+  - Accessibility check showed insufficient contrast of the colors used on the site. Contrast level was 42%
+
+    **Actions**: site color scheme has been changed;
+
+
+    **Result**: contrast level increased to 100%;
+
+
+    **Status**: bug fixed;
+
+
+- The spelling of the words "Hamburg Weekend" in the hero section was different from the spelling of the words "Hamburg Weekend" in the logo. Capital letters did not have accent colors
+
+    **Actions**: add styles to the first letters of of the words "Hamburg Weekend" in the hero section;
+
+
+    **Result**: The spelling of the words "Hamburg Weekend" in the hero section has become identical to the spelling of the words "Hamburg Weekend" in the logo;
+
+
+    **Status**: bug fixed;
+
+- The peace sign icon in the feedback form did not have a hover effect and did not change color to a green accent color.
+
+    **Actions**: add styles to the icons in the feedback form;
+
+
+    **Result**: The icon with the world sign in the feedback form has received a hover effect and changes its accent color to green on hover
+
+
+    **Status**: bug fixed;
+

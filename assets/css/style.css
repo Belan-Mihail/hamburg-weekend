@@ -538,6 +538,10 @@ footer p {
     background: transparent;
 }
 
+#feedback-form i:hover {
+    color: var(--secondary-accent-color);
+}
+
 .text-input {
     max-width: 21rem;
     width: 100%;
