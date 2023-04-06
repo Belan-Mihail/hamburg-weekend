@@ -457,7 +457,7 @@ W3C Jigsaw CSS Validation Service was used to validate CSS
 <img src="assets/images/readme-images/validation-images/css-validation.jpg">
 </details>
 
-## Accessibility
+### Accessibility
 
 Accessibility testing was carried out using the WAVE WebAIM service. No contrast errors were found. On the page attractions, parks and museums, 4 errors of the same type (Empty link) were found regarding icon links for switching between page objects, however, the description of the purpose of these links is made in separate paragraphs in order to make it easier to manage elements - and therefore errors do not actually exist.
 
@@ -481,7 +481,7 @@ Accessibility testing was carried out using the WAVE WebAIM service. No contrast
 <img src="assets/images/readme-images/accessibility/feedback-page-accessibility-check.jpg">
 </details>
 
-## Performance
+### Performance
 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website.
 
@@ -505,3 +505,22 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <details><summary>Feedback</summary>
 <img src="assets/images/readme-images/performance/feedback-page-performance-check.jpg">
 </details>
+
+### Device testing
+
+The website was tested on the following devices:
+
+   - Iphone 7;
+   - Iphone 12 Pro;
+
+
+In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+
+### Browser compatibility
+
+The website was tested on the following browsers:
+
+   - Google Chrome;
+   - Yandex Browser;
+   - Mozilla Firefox;
+
