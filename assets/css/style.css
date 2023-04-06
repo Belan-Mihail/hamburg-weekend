@@ -505,19 +505,19 @@ footer p {
 }
 
 .form label {
-    background: transparent;
-    color: #1A1A1A;
+    background: #1A1A1A;
+    color: #fff;
 }
 
 .form input, .form textarea {
     background: #fff;
-    color: #1A1A1A;
+    color: #fff;
 }
 
 #feedback-form {
     flex: 1 1 auto;
     color: #fff;
-    background: rgba(243, 116, 31);
+    background: #1A1A1A;
     max-width: 25rem;
     padding: 2rem;
 }
@@ -529,12 +529,12 @@ footer p {
 #feedback-form h2 {
     font-size: 1.8rem;
     background: transparent;
-    color: #1A1A1A;
+    color: #fff;
 }
 
 #feedback-form i {
     margin-left: .5rem;
-    color: #1A1A1A;
+    color: var(--primary-accent-color);
     background: transparent;
 }
 
