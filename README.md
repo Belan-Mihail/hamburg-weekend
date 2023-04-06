@@ -530,7 +530,7 @@ The website was tested on the following browsers:
 
  **Action** | **Result** 
  -----------| ----------  
- 1.Go to the places section on the Home page | Find interesting places 
+ 1.Being on the home page, scroll to the second section | Find interesting places 
  2.Navigate to the Attractions Page |  Find interesting places
  3.Navigate to the Parks Page |  Find interesting places
  4.Navigate to the Museums Page |  Find interesting places
@@ -549,10 +549,10 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
  **Action** | **Result** 
  -----------| ----------  
- 1.Go to the places section on the Home page | Find interesting places 
- 2.Navigate to the Attractions Page |  Find interesting places
- 3.Navigate to the Parks Page |  Find interesting places
- 4.Navigate to the Museums Page |  Find interesting places
+ 1.Being on the home page, scroll to the second section | Find a photo of attractions and points of interest 
+ 2.Navigate to the Attractions Page and scroll down |  Find a photo of of the attractions in Hamburg
+ 3.Navigate to the Parks Page and scroll down |  Find a photo of the parks in Hamburg
+ 4.Navigate to the Museums Page and scroll down |  Find a photo of the museums in Hamburg
 
 <details><summary>Screenshot evidences</summary>
 the size of the site is deliberately reduced to provide evidence
@@ -563,3 +563,18 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 </details> 
 
 ---
+
+As a user of the site, I want to get a brief description of the attractions and places to rest in Hamburg that I can visit in order to choose an interesting place to visit.
+
+**Action** | **Result** 
+ -----------| ----------  
+ 1.Navigate to the Attractions Page and scroll down. |  Find a brief description of the attractions in Hamburg
+ 2.Navigate to the Parks Page |  Find a brief description of the parks in Hamburg
+ 3.Navigate to the Museums Page |  Find a brief description of the museums in Hamburg
+
+ <details><summary>Screenshot evidences</summary>
+since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
+<img src="assets/images/readme-images/user-stories-test-evidence/third-user-strory-evidence.jpg">
+</details> 
+
+----
