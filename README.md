@@ -657,6 +657,16 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
     **Status**: bug fixed;
 
+- Lack of comments in html code that does not meet the requirements
+
+    **Actions**: add comments to the HTML code;
+
+
+    **Result**: Comments are added to the html code that meets the requirements
+
+
+    **Status**: bug fixed;
+
 ## Deployment
 
 The website was deployed using GitHub Pages by following these steps:
