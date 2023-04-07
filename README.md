@@ -701,6 +701,8 @@ I would like to express my sincere gratitude:
 
   - My mentor Mo Shami for his advice and support.
   - My daughter Alice for always giving me inspiration and strength to go forward.
+  - The government of the city of Hamburg and the employees of the job center Mitti for my opportunity to study at these courses.
+  - To all people who are in solidarity and support Ukraine.
 
 
 
