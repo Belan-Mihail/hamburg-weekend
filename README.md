@@ -668,6 +668,26 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
     **Status**: bug fixed;
 
+- The text color of the feedback form is white is no different on a white background.
+
+    **Actions**: add dark background text color of feedback forms;
+
+
+    **Result**: the text color of the feedback form has become black and contrasts well with the white background;
+
+
+    **Status**: bug fixed;
+
+- In the input form for e-mail, the text type is specified
+
+    **Actions**: change input type to email;
+
+
+    **Result**: input type changed to correct;
+
+
+    **Status**: bug fixed;
+
 ## Deployment
 
 The website was deployed using GitHub Pages by following these steps:
