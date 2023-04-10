@@ -571,6 +571,17 @@ footer p {
     width: 100%;
 }
 
+/* 404 page */
+.error-wrapper {
+    min-height: 20rem;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.error {
+    font-size: 2rem;
+}
 
 /* media queries */
 
