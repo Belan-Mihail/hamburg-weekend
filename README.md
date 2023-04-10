@@ -2,7 +2,7 @@
 # Hamburg Weekend
 (Developer: Bilan Mykhaylo)
 
-![Mockup image](assets/images/readme-images/mockup-screenshot-hamburg-weekend.jpg)
+![Mockup image](docs/mockup-screenshot-hamburg-weekend.jpg)
 
 [Live webpage](https://belan-mihail.github.io/hamburg-weekend/index.html)
 
@@ -149,7 +149,7 @@ The site is designed to maximize the interest of users and provide them with bri
 For the text content on the site, a white color was chosen, which contrasts well with the dark background of the site. Green and orange were chosen for the accent as well as for the hover effects. The text content in the photo was overlaid with an orange accent. I used Adobe Color to select the color.
 
 <details><summary>Screenshot (Adobe Color)</summary>
-<img src="assets/images/readme-images/screenshot-adobe-color.jpg">
+<img src="docs/screenshot-adobe-color.jpg">
 </details>
 
 ### Fonts
@@ -175,75 +175,75 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 <details><summary>Home Page Wireframes</summary>
 
 <details><summary>Home Page Fullscreen</summary>
-<img src="assets/images/readme-images/wireframe-images/home.png">
+<img src="docs/wireframe-images/home.png">
 </details>
 
 <details><summary>Home Page Ipad</summary>
-<img src="assets/images/readme-images/wireframe-images/home-ipad.png">
+<img src="docs/wireframe-images/home-ipad.png">
 </details>
 
 <details><summary>Home Page Mobile</summary>
-<img src="assets/images/readme-images/wireframe-images/home-mobile.png">
+<img src="docs/wireframe-images/home-mobile.png">
 </details>
 </details>
 
 <details><summary>Attraction Page Wireframes</summary>
 
 <details><summary>Attraction Page Fullscreen</summary>
-<img src="assets/images/readme-images/wireframe-images/attractions.png">
+<img src="docs/wireframe-images/attractions.png">
 </details>
 
 <details><summary>Attraction Page Ipad</summary>
-<img src="assets/images/readme-images/wireframe-images/attractions-ipad.png">
+<img src="docs/wireframe-images/attractions-ipad.png">
 </details>
 
 <details><summary>Attraction Page Mobile</summary>
-<img src="assets/images/readme-images/wireframe-images/attractions-mobile.png">
+<img src="docs/wireframe-images/attractions-mobile.png">
 </details>
 </details>
 
 <details><summary>Parks Page Wireframes</summary>
 
 <details><summary>Park Page Fullscreen</summary>
-<img src="assets/images/readme-images/wireframe-images/parks.png">
+<img src="docs/wireframe-images/parks.png">
 </details>
 
 <details><summary>Park Page Ipad</summary>
-<img src="assets/images/readme-images/wireframe-images/parks-ipad.png">
+<img src="docs/wireframe-images/parks-ipad.png">
 </details>
 
 <details><summary>Park Page Mobile</summary>
-<img src="assets/images/readme-images/wireframe-images/parks-mobile.png">
+<img src="docs/wireframe-images/parks-mobile.png">
 </details>
 </details>
 
 <details><summary>Museum Page Wireframes</summary>
 
 <details><summary>Museum Page Fullscreen</summary>
-<img src="assets/images/readme-images/wireframe-images/museums.png">
+<img src="docs/wireframe-images/museums.png">
 </details>
 
 <details><summary>Museum Page Ipad</summary>
-<img src="assets/images/readme-images/wireframe-images/museums-ipad.png">
+<img src="docs/wireframe-images/museums-ipad.png">
 </details>
 
 <details><summary>Museum Page Mobile</summary>
-<img src="assets/images/readme-images/wireframe-images/museums-mobile.png">
+<img src="docs/wireframe-images/museums-mobile.png">
 </details>
 </details>
 
 <details><summary>Feedback Page Wireframes</summary>
 
 <details><summary>Feedback Page Fullscreen</summary>
-<img src="assets/images/readme-images/wireframe-images/feedback.png">
+<img src="docs/wireframe-images/feedback.png">
 </details>
 
 <details><summary>Feedback Page Ipad</summary>
-<img src="assets/images/readme-images/wireframe-images/feedback-ipad.png">
+<img src="docs/wireframe-images/feedback-ipad.png">
 </details>
 
 <details><summary>Feedback Page Mobile</summary>
-<img src="assets/images/readme-images/wireframe-images/feedback-mobile.png">
+<img src="docs/wireframe-images/feedback-mobile.png">
 </details>
 </details>
 
@@ -289,7 +289,7 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 
 
-  ![Logo an Navigation](assets/images/readme-images/feature-images/home-page/logo-and-navigation.jpg)
+  ![Logo an Navigation](docs/feature-images/home-page/logo-and-navigation.jpg)
 
   ----
 
@@ -302,7 +302,7 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 - The title, which provides the user with a complete understanding of the subject of the site, is located on the orange "carpet" for contrast with the background image.
 
 
-![Hero-section](assets/images/readme-images/feature-images/home-page/hero-section.jpg)
+![Hero-section](docs/feature-images/home-page/hero-section.jpg)
 
 ------
 
@@ -318,9 +318,9 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - To create a positive visual effect, the paired thematic block of the section has a reverse order of the text content.
 
-![Places-section](assets/images/readme-images/feature-images/home-page/places-section-one.jpg)
-![Places-section](assets/images/readme-images/feature-images/home-page/places-section-two.jpg)
-![Places-section](assets/images/readme-images/feature-images/home-page/places-section-three.jpg)
+![Places-section](docs/feature-images/home-page/places-section-one.jpg)
+![Places-section](docs/feature-images/home-page/places-section-two.jpg)
+![Places-section](docs/feature-images/home-page/places-section-three.jpg)
 
 ------
 
@@ -336,7 +336,7 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - A green stripe of one of the site's accent colors additionally separates the section from the neighboring section.
 
-![Footer](assets/images/readme-images/feature-images/home-page/footer.jpg)
+![Footer](docs/feature-images/home-page/footer.jpg)
 
 
 ------
@@ -357,9 +357,9 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - when you click on any image and hold it, the height of the image becomes 100%, which allows the user to see the entire image and get a better idea of the object.
 
-![Attractions](assets/images/readme-images/feature-images/attractions-parks-museums/attractions-page-one.jpg)
-![Attractions](assets/images/readme-images/feature-images/attractions-parks-museums/attractions-page-two.jpg)
-![Attractions](assets/images/readme-images/feature-images/attractions-parks-museums/attractions-page-three.jpg)
+![Attractions](docs/feature-images/attractions-parks-museums/attractions-page-one.jpg)
+![Attractions](docs/feature-images/attractions-parks-museums/attractions-page-two.jpg)
+![Attractions](docs/feature-images/attractions-parks-museums/attractions-page-three.jpg)
 
 ------
 
@@ -379,9 +379,9 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - when you click on any image and hold it, the height of the image becomes 100%, which allows the user to see the entire image and get a better idea of the object.
 
-![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-page-one.jpg)
-![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-page-two.jpg)
-![Parks](assets/images/readme-images/feature-images/attractions-parks-museums/parks-page-three.jpg)
+![Parks](docs/feature-images/attractions-parks-museums/parks-page-one.jpg)
+![Parks](docs/feature-images/attractions-parks-museums/parks-page-two.jpg)
+![Parks](docs/feature-images/attractions-parks-museums/parks-page-three.jpg)
 
 ------
 
@@ -401,9 +401,9 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - when you click on any image and hold it, the height of the image becomes 100%, which allows the user to see the entire image and get a better idea of the object.
 
-![Museums](assets/images/readme-images/feature-images/attractions-parks-museums/museums-page-one.jpg)
-![Museums](assets/images/readme-images/feature-images/attractions-parks-museums/museums-page-two.jpg)
-![Museums](assets/images/readme-images/feature-images/attractions-parks-museums/museums-page-three.jpg)
+![Museums](docs/feature-images/attractions-parks-museums/museums-page-one.jpg)
+![Museums](docs/feature-images/attractions-parks-museums/museums-page-two.jpg)
+![Museums](docs/feature-images/attractions-parks-museums/museums-page-three.jpg)
 
 ------
 
@@ -421,7 +421,7 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - For the convenience of the user, the input fields contain a placeholder text.
 
-![Feedback](assets/images/readme-images/feature-images/feedback.jpg)
+![Feedback](docs/feature-images/feedback.jpg)
 
 
 ------
@@ -433,23 +433,23 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 
 <details><summary>Home</summary>
-<img src="assets/images/readme-images/validation-images/home-page-validation.jpg">
+<img src="docs/validation-images/home-page-validation.jpg">
 </details>
 
 <details><summary>Attractions</summary>
-<img src="assets/images/readme-images/validation-images/attractions-page-validation.jpg">
+<img src="docs/validation-images/attractions-page-validation.jpg">
 </details>
 
 <details><summary>Parks</summary>
-<img src="assets/images/readme-images/validation-images/parks-page-validation.jpg">
+<img src="docs/validation-images/parks-page-validation.jpg">
 </details>
 
 <details><summary>Museums</summary>
-<img src="assets/images/readme-images/validation-images/museums-page-validation.jpg">
+<img src="docs/validation-images/museums-page-validation.jpg">
 </details>
 
 <details><summary>Feedback</summary>
-<img src="assets/images/readme-images/validation-images/feedback-page-validation.jpg">
+<img src="docs/validation-images/feedback-page-validation.jpg">
 </details>
 
 ### CSS Validation
@@ -457,7 +457,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 W3C Jigsaw CSS Validation Service was used to validate CSS
 
 <details><summary>style.css</summary>
-<img src="assets/images/readme-images/validation-images/css-validation.jpg">
+<img src="docs/validation-images/css-validation.jpg">
 </details>
 
 ### Accessibility
@@ -465,23 +465,23 @@ W3C Jigsaw CSS Validation Service was used to validate CSS
 Accessibility testing was carried out using the WAVE WebAIM service. No contrast errors were found. On the page attractions, parks and museums, 4 errors of the same type (Empty link) were found regarding icon links for switching between page objects, however, the description of the purpose of these links is made in separate paragraphs in order to make it easier to manage elements - and therefore errors do not actually exist.
 
 <details><summary>Home</summary>
-<img src="assets/images/readme-images/accessibility/home-page-accessibility-check.jpg">
+<img src="docs/accessibility/home-page-accessibility-check.jpg">
 </details>
 
 <details><summary>Attractions</summary>
-<img src="assets/images/readme-images/accessibility/attractions-page-accessibility-check.jpg">
+<img src="docs/accessibility/attractions-page-accessibility-check.jpg">
 </details>
 
 <details><summary>Parks</summary>
-<img src="assets/images/readme-images/accessibility/parks-page-accessibility-check.jpg">
+<img src="docs/accessibility/parks-page-accessibility-check.jpg">
 </details>
 
 <details><summary>Museums</summary>
-<img src="assets/images/readme-images/accessibility/museums-page-accessibility-check.jpg">
+<img src="docs/accessibility/museums-page-accessibility-check.jpg">
 </details>
 
 <details><summary>Feedback</summary>
-<img src="assets/images/readme-images/accessibility/feedback-page-accessibility-check.jpg">
+<img src="docs/accessibility/feedback-page-accessibility-check.jpg">
 </details>
 
 ### Performance
@@ -490,23 +490,23 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 
 <details><summary>Home</summary>
-<img src="assets/images/readme-images/performance/home-page-performance-check.jpg">
+<img src="docs/performance/home-page-performance-check.jpg">
 </details>
 
 <details><summary>Attractions</summary>
-<img src="assets/images/readme-images/performance/attractions-page-performance-check.jpg">
+<img src="docs/performance/attractions-page-performance-check.jpg">
 </details>
 
 <details><summary>Parks</summary>
-<img src="assets/images/readme-images/performance/parks-page-performance-check.jpg">
+<img src="docs/performance/parks-page-performance-check.jpg">
 </details>
 
 <details><summary>Museums</summary>
-<img src="assets/images/readme-images/performance/museums-page-performance-check.jpg">
+<img src="docs/performance/museums-page-performance-check.jpg">
 </details>
 
 <details><summary>Feedback</summary>
-<img src="assets/images/readme-images/performance/feedback-page-performance-check.jpg">
+<img src="docs/performance/feedback-page-performance-check.jpg">
 </details>
 
 ### Device testing
@@ -540,10 +540,10 @@ The website was tested on the following browsers:
 
 <details><summary>Screenshot evidences</summary>
 the size of the site is deliberately reduced to provide evidence
-<img src="assets/images/readme-images/user-stories-test-evidence/first-user-strory-evidence-one.jpg">
+<img src="docs/user-stories-test-evidence/first-user-strory-evidence-one.jpg">
 
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
-<img src="assets/images/readme-images/user-stories-test-evidence/first-user-strory-evidence-two.jpg">
+<img src="docs/user-stories-test-evidence/first-user-strory-evidence-two.jpg">
 </details> 
 
 ----
@@ -559,10 +559,10 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 <details><summary>Screenshot evidences</summary>
 the size of the site is deliberately reduced to provide evidence
-<img src="assets/images/readme-images/user-stories-test-evidence/second-user-strory-evidence-one.jpg">
+<img src="docs/user-stories-test-evidence/second-user-strory-evidence-one.jpg">
 
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
-<img src="assets/images/readme-images/user-stories-test-evidence/second-user-strory-evidence-two.jpg">
+<img src="docs/user-stories-test-evidence/second-user-strory-evidence-two.jpg">
 </details> 
 
 ---
@@ -577,7 +577,7 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
  <details><summary>Screenshot evidences</summary>
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
-<img src="assets/images/readme-images/user-stories-test-evidence/third-user-strory-evidence.jpg">
+<img src="docs/user-stories-test-evidence/third-user-strory-evidence.jpg">
 </details> 
 
 ----
@@ -592,7 +592,7 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
  <details><summary>Screenshot evidences</summary>
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
-<img src="assets/images/readme-images/user-stories-test-evidence/fourth-user-strory-evidence.jpg">
+<img src="docs/user-stories-test-evidence/fourth-user-strory-evidence.jpg">
 </details> 
 
 ---
@@ -607,7 +607,7 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
  <details><summary>Screenshot evidences</summary>
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
-<img src="assets/images/readme-images/user-stories-test-evidence/fifth-user-strory-evidence.jpg">
+<img src="docs/user-stories-test-evidence/fifth-user-strory-evidence.jpg">
 </details> 
 
 ---
@@ -620,7 +620,7 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 
  <details><summary>Screenshot evidences</summary>
-<img src="assets/images/readme-images/user-stories-test-evidence/sixth-user-strory-evidence.jpg">
+<img src="docs/user-stories-test-evidence/sixth-user-strory-evidence.jpg">
 </details> 
 
 ## Bugs
