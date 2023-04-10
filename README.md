@@ -685,6 +685,23 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 ---
 
+7. As a user of the site, I want to be able to quickly move from one page to another.
+
+**Action** | **Result** 
+ -----------| ----------  
+ 1.Being on the every website pages go to the Navigation Bar and click to the desired link |  You hav opportunity to quickly move from one page to another.
+
+
+ <details><summary>Screenshot evidences</summary>
+ <img src="docs/user-stories-test-evidence/seventh-user-strory-evidence-one.jpg">
+since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
+<img src="docs/user-stories-test-evidence/seventh-user-strory-evidence-two.jpg">
+<img src="docs/user-stories-test-evidence/seventh-user-strory-evidence-three.jpg">
+<img src="docs/user-stories-test-evidence/seventh-user-strory-evidence-four.jpg">
+</details> 
+
+---
+
 9. As a user of the site, I want to get the opportunity to send a feedback to the website adminastraitions. 
 
 **Action** | **Result** 
