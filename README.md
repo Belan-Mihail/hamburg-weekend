@@ -702,6 +702,23 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 ---
 
+8. As a user of the site, I want to be able to quickly move from one object (attractions or places of rest) to another within the thematic page without scrolling.
+
+**Action** | **Result** 
+ -----------| ----------  
+ 1.Navigate to the Attractions Page and scroll down to any object  |  Opposite the name of the object there is a link to the next / previous object
+ 2.Navigate to the Parks Page and scroll down to any object  |  Opposite the name of the object there is a link to the next / previous object
+ 3.Navigate to the Museums Page  and scroll down to any object  |  Opposite the name of the object there is a link to the next / previous object
+
+
+ <details><summary>Screenshot evidences</summary>
+since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
+the size of the site is deliberately reduced to provide evidence
+<img src="docs/user-stories-test-evidence/eighth-user-strory-evidence.jpg">
+</details> 
+
+---
+
 9. As a user of the site, I want to get the opportunity to send a feedback to the website adminastraitions. 
 
 **Action** | **Result** 
@@ -712,6 +729,8 @@ since the pages of attractions, parks, museums are identical in structure, a scr
  <details><summary>Screenshot evidences</summary>
 <img src="docs/user-stories-test-evidence/ninth-user-strory-evidence.jpg">
 </details> 
+
+
 
 ## Bugs
 
