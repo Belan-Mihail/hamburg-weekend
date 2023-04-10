@@ -518,7 +518,9 @@ W3C Jigsaw CSS Validation Service was used to validate CSS
 
 ### Accessibility
 
-Accessibility testing was carried out using the WAVE WebAIM service. No contrast errors were found. On the page attractions, parks and museums, 4 errors of the same type (Empty link) were found regarding icon links for switching between page objects, however, the description of the purpose of these links is made in separate paragraphs in order to make it easier to manage elements - and therefore errors do not actually exist.
+Accessibility testing was carried out using the WAVE WebAIM service. No contrast errors were found. 
+
+***On the page attractions, parks and museums, 4 errors of the same type (Empty link) were found regarding icon links for switching between page objects, however, the description of the purpose of these links is made in separate paragraphs in order to make it easier to manage elements - **and therefore errors do not actually exist.***
 
 <details><summary>Home</summary>
 <img src="docs/accessibility/home-page-accessibility-check.jpg">
@@ -604,7 +606,22 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 ----
 
-2. As a user of the site, I want to get a visual idea of the attractions and places to rest in Hamburg (by viewing photos of these places) in order to choose an interesting place to visit.
+2. As a user of the site, I want to get information about several different areas of tourist recreation in Hamburg.
+
+ **Action** | **Result** 
+ -----------| ----------  
+ 1.Being on the home page, navigate to the Navigation Bar | Find several different areas of tourist recreation in Hamburg
+ 2.Being on the home page, scroll to the second section | Find several different areas of tourist recreation in Hamburg
+
+
+<details><summary>Screenshot evidences</summary>
+the size of the site is deliberately reduced to provide evidence
+<img src="docs/user-stories-test-evidence/second-user-strory-evidence.jpg">
+</details> 
+
+----
+
+3. As a user of the site, I want to get a visual idea of the attractions and places to rest in Hamburg (by viewing photos of these places) in order to choose an interesting place to visit.
 
  **Action** | **Result** 
  -----------| ----------  
@@ -615,15 +632,15 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 <details><summary>Screenshot evidences</summary>
 the size of the site is deliberately reduced to provide evidence
-<img src="docs/user-stories-test-evidence/second-user-strory-evidence-one.jpg">
+<img src="docs/user-stories-test-evidence/third-user-strory-evidence-one.jpg">
 
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
-<img src="docs/user-stories-test-evidence/second-user-strory-evidence-two.jpg">
+<img src="docs/user-stories-test-evidence/third-user-strory-evidence-two.jpg">
 </details> 
 
 ---
 
-3. As a user of the site, I want to get a brief description of the attractions and places to rest in Hamburg that I can visit in order to choose an interesting place to visit.
+4. As a user of the site, I want to get a brief description of the attractions and places to rest in Hamburg that I can visit in order to choose an interesting place to visit.
 
 **Action** | **Result** 
  -----------| ----------  
@@ -633,12 +650,12 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
  <details><summary>Screenshot evidences</summary>
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
-<img src="docs/user-stories-test-evidence/third-user-strory-evidence.jpg">
+<img src="docs/user-stories-test-evidence/fourth-user-strory-evidence.jpg">
 </details> 
 
 ----
 
-4. As a user of the site, I want to get the opportunity to get more detailed information about the attractions and places to rest in Hamburg in order to choose an interesting place to visit.
+5. As a user of the site, I want to get the opportunity to get more detailed information about the attractions and places to rest in Hamburg in order to choose an interesting place to visit.
 
 **Action** | **Result** 
  -----------| ----------  
@@ -648,12 +665,12 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
  <details><summary>Screenshot evidences</summary>
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
-<img src="docs/user-stories-test-evidence/fourth-user-strory-evidence.jpg">
+<img src="docs/user-stories-test-evidence/fifth-user-strory-evidence.jpg">
 </details> 
 
 ---
 
-5. As a user of the site, I want to receive information about the addresses of attractions or places to rest in Hamburg in order to be able to get to the object.
+6. As a user of the site, I want to receive information about the addresses of attractions or places to rest in Hamburg in order to be able to get to the object.
 
 **Action** | **Result** 
  -----------| ----------  
@@ -663,12 +680,12 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
  <details><summary>Screenshot evidences</summary>
 since the pages of attractions, parks, museums are identical in structure, a screenshot from one page is shown as evidence
-<img src="docs/user-stories-test-evidence/fifth-user-strory-evidence.jpg">
+<img src="docs/user-stories-test-evidence/sixth-user-strory-evidence.jpg">
 </details> 
 
 ---
 
-6. As a user of the site, I want to get the opportunity to send a feedback to the website adminastraitions. 
+9. As a user of the site, I want to get the opportunity to send a feedback to the website adminastraitions. 
 
 **Action** | **Result** 
  -----------| ----------  
@@ -676,7 +693,7 @@ since the pages of attractions, parks, museums are identical in structure, a scr
 
 
  <details><summary>Screenshot evidences</summary>
-<img src="docs/user-stories-test-evidence/sixth-user-strory-evidence.jpg">
+<img src="docs/user-stories-test-evidence/ninth-user-strory-evidence.jpg">
 </details> 
 
 ## Bugs
