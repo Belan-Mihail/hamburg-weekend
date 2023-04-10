@@ -730,7 +730,16 @@ the size of the site is deliberately reduced to provide evidence
 <img src="docs/user-stories-test-evidence/ninth-user-strory-evidence.jpg">
 </details> 
 
+10. As a user of the site, I want to get the opportunity to go to any of the pages of the site if I enter the site address with mistake. 
 
+**Action** | **Result** 
+ -----------| ----------  
+ 1.Make a mistake in the address of the site page. You will be taken to a 404 page|  Top right navigation menu
+
+
+ <details><summary>Screenshot evidences</summary>
+<img src="docs/user-stories-test-evidence/tenth-user-strory-evidence.jpg">
+</details> 
 
 ## Bugs
 
