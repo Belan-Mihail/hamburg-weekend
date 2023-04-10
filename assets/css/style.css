@@ -573,14 +573,15 @@ footer p {
 
 /* 404 page */
 .error-wrapper {
-    min-height: 20rem;
+    min-height: 60vh;
     margin: 0 auto;
     text-align: center;
-    justify-content: center;
 }
 
 .error {
     font-size: 2rem;
+    padding-top: 8rem;
+    color: var(--primary-accent-color);
 }
 
 /* media queries */
