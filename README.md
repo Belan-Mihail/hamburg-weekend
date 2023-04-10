@@ -34,6 +34,7 @@
     6. [Parks](#parks)
     7. [Museums](#museums)
     8. [Feedback](#feedback)
+    9. [404 Page](#404-page)
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
@@ -321,6 +322,8 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
    - for the convenience of the user, the active page of the site is underlined with an orange line. Other navigation links become underlined with a green line on hover.
 
+   - User stories covered: 7;
+
 
 
   ![Logo an Navigation](docs/feature-images/home-page/logo-and-navigation.jpg)
@@ -351,6 +354,8 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 - The section is decorated with thematic icons and additional links with hover effect.
 
 - To create a positive visual effect, the paired thematic block of the section has a reverse order of the text content.
+
+- User stories covered: 1, 2, 3
 
 ![Places-section](docs/feature-images/home-page/places-section-one.jpg)
 ![Places-section](docs/feature-images/home-page/places-section-two.jpg)
@@ -391,6 +396,8 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - when you click on any image and hold it, the height of the image becomes 100%, which allows the user to see the entire image and get a better idea of the object.
 
+- User stories covered: 1, 3, 4, 5, 6, 7, 8
+
 ![Attractions](docs/feature-images/attractions-parks-museums/attractions-page-one.jpg)
 ![Attractions](docs/feature-images/attractions-parks-museums/attractions-page-two.jpg)
 ![Attractions](docs/feature-images/attractions-parks-museums/attractions-page-three.jpg)
@@ -412,6 +419,8 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 - For the convenience of moving from object to object, each article (depending on its position on the page) has arrow icons that are internal links for moving to the next / previous object, which saves the user from having to scroll the page while reading.
 
 - when you click on any image and hold it, the height of the image becomes 100%, which allows the user to see the entire image and get a better idea of the object.
+
+- User stories covered: 1, 3, 4, 5, 6, 7, 8
 
 ![Parks](docs/feature-images/attractions-parks-museums/parks-page-one.jpg)
 ![Parks](docs/feature-images/attractions-parks-museums/parks-page-two.jpg)
@@ -435,6 +444,8 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - when you click on any image and hold it, the height of the image becomes 100%, which allows the user to see the entire image and get a better idea of the object.
 
+- User stories covered: 1, 3, 4, 5, 6, 7, 8
+
 ![Museums](docs/feature-images/attractions-parks-museums/museums-page-one.jpg)
 ![Museums](docs/feature-images/attractions-parks-museums/museums-page-two.jpg)
 ![Museums](docs/feature-images/attractions-parks-museums/museums-page-three.jpg)
@@ -455,8 +466,19 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - For the convenience of the user, the input fields contain a placeholder text.
 
+- User stories covered: 9
+
 ![Feedback](docs/feature-images/feedback.jpg)
 
+### 404 page
+
+- This section is only on the 404 page, just below the navigation bar.
+
+- This section consists of a single heading placed in the center of the page and highlighted with an accent color, notifying the user that the page was not found.
+
+- this section is necessary to avoid displaying a standard 404 page with a missing page and giving the user the opportunity to select another page or go to the site's social network in this case.
+
+![404 Page](docs/feature-images/404-page.jpg)
 
 ------
 
