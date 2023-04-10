@@ -82,23 +82,31 @@
 
 ### User Stories
 
-- As a user of the site, I want to get information about various attractions and places to rest in Hamburg in order to choose an interesting place for himself to visit.
+1. As a user of the site, I want to get information about various attractions and places to rest in Hamburg in order to choose an interesting place for himself to visit.
 
     - **Expected result:** the site has information about various attractions and places to rest in Hamburg.
     
-    - **How to reach:** posting on a website about various sights and places to rest in Hamburg
+    - **How to reach:** posting on a website about various attractions and places to rest in Hamburg
 
-    - **Achievement Criteria:** information about more than 6 sights or places to rest in Hamburg is available.
+    - **Achievement Criteria:** information about more than 6 attractions or places to rest in Hamburg is available.
 
-- As a user of the site, I want to get a visual idea of the attractions and places to rest in Hamburg (by viewing photos of these places) in order to choose an interesting place to visit.
+2.  As a user of the site, I want to get information about several different areas of tourist recreation in Hamburg.
 
-    - **Expected result:** while on the site, the user receives a visual representation of the attractions and places to rest in Hamburg.
+    - **Expected result:** the site has information about several different areas of tourist recreation in Hamburg.
+    
+    - **How to reach:** posting on a website about different areas of tourist recreation in Hamburg.
+
+    - **Achievement Criteria:** information about 3 different areas of tourist recreation in Hamburg is available.
+
+3. As a user of the site, I want to get a visual idea of the attractions and places to rest in Hamburg (by viewing photos of these places) in order to choose an interesting place to visit.
+
+- **Expected result:** while on the site, the user receives a visual representation of the attractions and places to rest in Hamburg.
     
     - **How to reach:** placement on the site of photographs of attractions and places to rest in Hamburg.
 
     - **Achievement Criteria:** there are more than 3 photos of every attraction or places to rest in Hamburg listed on the site.
 
-- As a user of the site, I want to get a brief description of the attractions and places to rest in Hamburg that I can visit in order to choose an interesting place to visit.
+4. As a user of the site, I want to get a brief description of the attractions and places to rest in Hamburg that I can visit in order to choose an interesting place to visit.
 
     - **Expected result:** the user, being on the site, has the opportunity to read a brief description of the attractions or places to rest in Hamburg.
     
@@ -106,7 +114,7 @@
 
     - **Achievement Criteria:** there is a one-time brief description of each attraction or each place for a rest in Hamburg that is listed on the site.
 
-- As a user of the site, I want to get the opportunity to get more detailed information about the attractions and places to rest in Hamburg in order to choose an interesting place to visit.
+5. As a user of the site, I want to get the opportunity to get more detailed information about the attractions and places to rest in Hamburg in order to choose an interesting place to visit.
 
     - **Expected result:** being on the site, the user has the opportunity to get acquainted with more detailed information about the atrractions or/and about places to rest in Hamburg than provided on the site.
     
@@ -114,7 +122,7 @@
 
     - **Achievement Criteria:** each attraction or each place of rest has one link to the official website or resource containing more detailed information.
 
-- As a user of the site, I want to receive information about the addresses of attractions or places to rest in Hamburg in order to be able to get to the object.
+6. As a user of the site, I want to receive information about the addresses of attractions or places to rest in Hamburg in order to be able to get to the object.
 
     - **Expected result:** being on the site, the user has the opportunity to get acquainted with the address of the object and see it on the map of Hamburg.
     
@@ -122,13 +130,37 @@
 
     - **Achievement Criteria:** each object has information about the address of the object and a link to the object on the Google map.
 
-- As a user of the site, I want to get the opportunity to send a feedback to the website adminastraitions. 
+7. As a user of the site, I want to be able to quickly move from one page to another.
+
+    - **Expected result:** being on the site, the user has the opportunity to quickly move from one page to another.
+    
+    - **How to reach:** placement on the each website pages navigations bar with links to the another page.
+
+    - **Achievement Criteria:** each  website pages have links to the another website pages.
+
+8. As a user of the site, I want to be able to quickly move from one object (attractions or places of rest) to another within the thematic page without scrolling.
+
+    - **Expected result:** being on the site, the user has the opportunity to quickly move from one object (attractions or places of rest) to another within the thematic page without scrolling.
+    
+    - **How to reach:** placement nearly each object on the thematic page links to the next/previous object.
+
+    - **Achievement Criteria:** each object on the thematic page has links to the next/previous object.
+
+9. As a user of the site, I want to get the opportunity to send a feedback to the website adminastraitions. 
 
     - **Expected result:** being on the site, the user has the opportunity to send a feedback to the website adminastraitions.
     
     - **How to reach:** creating a feedback section (page) with a feedback form.
 
     - **Achievement Criteria:** the site should have a separate page for feedback with a feedback form.
+
+10. As a user of the site, I want to get the opportunity to go to any of the pages of the site if I enter the site address with mistake. 
+
+    - **Expected result:** the user has the opportunity to go to any of the pages of the site if he enter the site address with mistake.
+    
+    - **How to reach:** creating a 404 pages with navigation bar.
+
+    - **Achievement Criteria:** the site  have a 404 pages with navigation bar.
 
 ### Site Owner Stories
 
