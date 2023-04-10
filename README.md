@@ -274,6 +274,8 @@ The page is structured in a well know and user friendly. Upon arriving to the we
 
 - **Google Maps** used to embed maps on the site.
 
+- **Favicons.io** used to added favicons on the site.
+
 
 ## Features
 
@@ -711,6 +713,8 @@ The live link can be found here - [Hamburg Weekend](https://belan-mihail.github.
 **The Maps** were taken from the site - [Google Maps](https://www.google.com.hk/maps/)
 
 The icons used on the site were taken from the site - [Font Awesome](https://fontawesome.com/)
+
+The favicons used on the site were created by the site - [Favicons.io](https://favicon.io/)
 
 ### Media
 
